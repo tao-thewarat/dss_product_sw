@@ -1,5 +1,6 @@
 import React from "react";
 import type { Metadata } from "next";
+import ProfileImage from "../../components/ProfileImage";
 
 export const metadata: Metadata = {
   title: "ผู้สร้าง (Creator Profile) — DSS",
@@ -18,15 +19,7 @@ export default function ProfilePage() {
 
       <div className="profile-card">
         <div className="profile-head">
-          <img
-            src="/profile.jpg"
-            alt="Pangpond"
-            className="profile-img"
-            onError={(e) => {
-              // Fallback if user hasn't added the image yet
-              e.currentTarget.src = "https://ui-avatars.com/api/?name=Pangpond&background=2b3157&color=fff&size=200";
-            }}
-          />
+          <ProfileImage />
           <div className="profile-title">
             <h1>นายเทวนารถ จารุสิทธิ์ (ปังปอนด์)</h1>
             <p>Artificial Intelligence & Prompt Engineering Student</p>
