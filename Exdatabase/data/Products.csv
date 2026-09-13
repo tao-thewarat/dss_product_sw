@@ -1,0 +1,2001 @@
+product_id,sku,product_name,category,current_price,stock_qty
+1,SKU-00001,Mock Product 1,Sports,19.64,536
+2,SKU-00002,Mock Product 2,Groceries,1443.35,973
+3,SKU-00003,Mock Product 3,Toys,2657.76,841
+4,SKU-00004,Mock Product 4,Home & Garden,2348.56,978
+5,SKU-00005,Mock Product 5,Electronics,4405.06,382
+6,SKU-00006,Mock Product 6,Toys,518.13,860
+7,SKU-00007,Mock Product 7,Sports,4731.63,414
+8,SKU-00008,Mock Product 8,Sports,4283.46,843
+9,SKU-00009,Mock Product 9,Toys,916.9,377
+10,SKU-00010,Mock Product 10,Home & Garden,3381.16,228
+11,SKU-00011,Mock Product 11,Books,3907.36,970
+12,SKU-00012,Mock Product 12,Sports,1305.93,873
+13,SKU-00013,Mock Product 13,Sports,2227.03,775
+14,SKU-00014,Mock Product 14,Toys,2641.22,44
+15,SKU-00015,Mock Product 15,Books,1839.9,99
+16,SKU-00016,Mock Product 16,Sports,938.32,972
+17,SKU-00017,Mock Product 17,Home & Garden,4936.1,191
+18,SKU-00018,Mock Product 18,Books,4759.91,760
+19,SKU-00019,Mock Product 19,Books,4954.02,643
+20,SKU-00020,Mock Product 20,Groceries,3466.81,242
+21,SKU-00021,Mock Product 21,Groceries,3692.52,824
+22,SKU-00022,Mock Product 22,Clothing,3853.54,511
+23,SKU-00023,Mock Product 23,Toys,4610.39,747
+24,SKU-00024,Mock Product 24,Toys,4213.26,253
+25,SKU-00025,Mock Product 25,Home & Garden,3831.09,196
+26,SKU-00026,Mock Product 26,Books,511.61,722
+27,SKU-00027,Mock Product 27,Books,3124.89,50
+28,SKU-00028,Mock Product 28,Books,4654.11,32
+29,SKU-00029,Mock Product 29,Toys,4104.81,732
+30,SKU-00030,Mock Product 30,Electronics,2949.45,561
+31,SKU-00031,Mock Product 31,Books,148.82,174
+32,SKU-00032,Mock Product 32,Books,3938.64,378
+33,SKU-00033,Mock Product 33,Sports,618.65,482
+34,SKU-00034,Mock Product 34,Clothing,2908.0,153
+35,SKU-00035,Mock Product 35,Electronics,1386.08,271
+36,SKU-00036,Mock Product 36,Sports,1798.08,234
+37,SKU-00037,Mock Product 37,Books,3285.39,162
+38,SKU-00038,Mock Product 38,Groceries,3283.97,716
+39,SKU-00039,Mock Product 39,Books,4972.54,336
+40,SKU-00040,Mock Product 40,Sports,4750.28,578
+41,SKU-00041,Mock Product 41,Toys,4483.86,380
+42,SKU-00042,Mock Product 42,Sports,4975.48,899
+43,SKU-00043,Mock Product 43,Home & Garden,1212.23,573
+44,SKU-00044,Mock Product 44,Toys,3787.46,686
+45,SKU-00045,Mock Product 45,Electronics,3512.85,56
+46,SKU-00046,Mock Product 46,Books,1485.51,67
+47,SKU-00047,Mock Product 47,Electronics,3859.05,347
+48,SKU-00048,Mock Product 48,Electronics,2706.15,285
+49,SKU-00049,Mock Product 49,Books,3024.27,174
+50,SKU-00050,Mock Product 50,Toys,2406.36,476
+51,SKU-00051,Mock Product 51,Electronics,2912.21,971
+52,SKU-00052,Mock Product 52,Electronics,4478.08,871
+53,SKU-00053,Mock Product 53,Toys,4782.7,312
+54,SKU-00054,Mock Product 54,Electronics,268.33,884
+55,SKU-00055,Mock Product 55,Sports,477.57,502
+56,SKU-00056,Mock Product 56,Sports,3613.22,492
+57,SKU-00057,Mock Product 57,Electronics,4705.04,431
+58,SKU-00058,Mock Product 58,Electronics,4880.59,805
+59,SKU-00059,Mock Product 59,Sports,3151.73,669
+60,SKU-00060,Mock Product 60,Groceries,521.12,495
+61,SKU-00061,Mock Product 61,Books,3122.29,619
+62,SKU-00062,Mock Product 62,Books,3329.9,597
+63,SKU-00063,Mock Product 63,Sports,908.21,912
+64,SKU-00064,Mock Product 64,Groceries,2594.71,144
+65,SKU-00065,Mock Product 65,Toys,2718.42,688
+66,SKU-00066,Mock Product 66,Sports,461.64,401
+67,SKU-00067,Mock Product 67,Home & Garden,4645.47,273
+68,SKU-00068,Mock Product 68,Electronics,395.92,47
+69,SKU-00069,Mock Product 69,Electronics,814.84,267
+70,SKU-00070,Mock Product 70,Sports,1704.87,150
+71,SKU-00071,Mock Product 71,Groceries,4701.99,390
+72,SKU-00072,Mock Product 72,Toys,946.6,15
+73,SKU-00073,Mock Product 73,Clothing,700.9,686
+74,SKU-00074,Mock Product 74,Clothing,3695.82,125
+75,SKU-00075,Mock Product 75,Groceries,50.34,133
+76,SKU-00076,Mock Product 76,Books,688.1,565
+77,SKU-00077,Mock Product 77,Toys,2924.08,110
+78,SKU-00078,Mock Product 78,Sports,525.53,408
+79,SKU-00079,Mock Product 79,Clothing,2248.46,203
+80,SKU-00080,Mock Product 80,Clothing,3663.41,450
+81,SKU-00081,Mock Product 81,Home & Garden,4873.64,833
+82,SKU-00082,Mock Product 82,Electronics,4492.0,924
+83,SKU-00083,Mock Product 83,Home & Garden,1742.41,871
+84,SKU-00084,Mock Product 84,Toys,182.72,73
+85,SKU-00085,Mock Product 85,Clothing,1381.91,601
+86,SKU-00086,Mock Product 86,Home & Garden,1479.15,975
+87,SKU-00087,Mock Product 87,Clothing,2762.02,667
+88,SKU-00088,Mock Product 88,Home & Garden,903.79,675
+89,SKU-00089,Mock Product 89,Clothing,65.93,922
+90,SKU-00090,Mock Product 90,Sports,4686.08,314
+91,SKU-00091,Mock Product 91,Electronics,1342.66,656
+92,SKU-00092,Mock Product 92,Clothing,4458.7,83
+93,SKU-00093,Mock Product 93,Clothing,683.08,832
+94,SKU-00094,Mock Product 94,Sports,4398.2,900
+95,SKU-00095,Mock Product 95,Toys,1165.46,176
+96,SKU-00096,Mock Product 96,Home & Garden,4674.1,252
+97,SKU-00097,Mock Product 97,Home & Garden,704.13,760
+98,SKU-00098,Mock Product 98,Books,2836.46,524
+99,SKU-00099,Mock Product 99,Home & Garden,3376.61,715
+100,SKU-00100,Mock Product 100,Electronics,4670.26,767
+101,SKU-00101,Mock Product 101,Books,4125.78,509
+102,SKU-00102,Mock Product 102,Home & Garden,4320.41,861
+103,SKU-00103,Mock Product 103,Sports,4739.24,935
+104,SKU-00104,Mock Product 104,Sports,1673.81,276
+105,SKU-00105,Mock Product 105,Electronics,1594.49,845
+106,SKU-00106,Mock Product 106,Groceries,833.52,726
+107,SKU-00107,Mock Product 107,Groceries,3963.87,1000
+108,SKU-00108,Mock Product 108,Toys,2841.42,921
+109,SKU-00109,Mock Product 109,Books,4850.53,534
+110,SKU-00110,Mock Product 110,Toys,2349.49,134
+111,SKU-00111,Mock Product 111,Sports,1765.05,259
+112,SKU-00112,Mock Product 112,Sports,373.87,904
+113,SKU-00113,Mock Product 113,Books,1021.83,93
+114,SKU-00114,Mock Product 114,Books,3138.55,606
+115,SKU-00115,Mock Product 115,Sports,4104.14,883
+116,SKU-00116,Mock Product 116,Books,1301.79,813
+117,SKU-00117,Mock Product 117,Electronics,2741.14,323
+118,SKU-00118,Mock Product 118,Toys,4784.56,324
+119,SKU-00119,Mock Product 119,Clothing,3308.25,354
+120,SKU-00120,Mock Product 120,Home & Garden,474.18,296
+121,SKU-00121,Mock Product 121,Toys,926.94,659
+122,SKU-00122,Mock Product 122,Clothing,349.5,440
+123,SKU-00123,Mock Product 123,Clothing,2822.61,8
+124,SKU-00124,Mock Product 124,Home & Garden,1903.14,309
+125,SKU-00125,Mock Product 125,Electronics,1485.79,844
+126,SKU-00126,Mock Product 126,Clothing,2072.3,389
+127,SKU-00127,Mock Product 127,Groceries,4711.87,477
+128,SKU-00128,Mock Product 128,Sports,4912.65,642
+129,SKU-00129,Mock Product 129,Groceries,4668.8,729
+130,SKU-00130,Mock Product 130,Groceries,73.51,772
+131,SKU-00131,Mock Product 131,Sports,3366.57,85
+132,SKU-00132,Mock Product 132,Sports,1956.5,53
+133,SKU-00133,Mock Product 133,Books,3953.01,179
+134,SKU-00134,Mock Product 134,Groceries,1940.05,232
+135,SKU-00135,Mock Product 135,Electronics,4248.92,439
+136,SKU-00136,Mock Product 136,Clothing,3496.33,164
+137,SKU-00137,Mock Product 137,Groceries,2258.91,136
+138,SKU-00138,Mock Product 138,Toys,2467.22,681
+139,SKU-00139,Mock Product 139,Clothing,4993.88,791
+140,SKU-00140,Mock Product 140,Sports,4472.12,12
+141,SKU-00141,Mock Product 141,Books,1474.45,869
+142,SKU-00142,Mock Product 142,Books,3966.55,253
+143,SKU-00143,Mock Product 143,Sports,2926.5,420
+144,SKU-00144,Mock Product 144,Home & Garden,3945.75,775
+145,SKU-00145,Mock Product 145,Books,4174.9,15
+146,SKU-00146,Mock Product 146,Home & Garden,2306.98,230
+147,SKU-00147,Mock Product 147,Clothing,2788.08,885
+148,SKU-00148,Mock Product 148,Toys,3104.71,645
+149,SKU-00149,Mock Product 149,Groceries,708.87,741
+150,SKU-00150,Mock Product 150,Groceries,4729.13,679
+151,SKU-00151,Mock Product 151,Books,4997.17,790
+152,SKU-00152,Mock Product 152,Groceries,2688.72,270
+153,SKU-00153,Mock Product 153,Home & Garden,3801.02,995
+154,SKU-00154,Mock Product 154,Toys,696.76,351
+155,SKU-00155,Mock Product 155,Groceries,4802.34,686
+156,SKU-00156,Mock Product 156,Toys,114.68,817
+157,SKU-00157,Mock Product 157,Books,4489.54,41
+158,SKU-00158,Mock Product 158,Groceries,3068.08,828
+159,SKU-00159,Mock Product 159,Books,1222.68,502
+160,SKU-00160,Mock Product 160,Groceries,4272.53,796
+161,SKU-00161,Mock Product 161,Clothing,55.99,658
+162,SKU-00162,Mock Product 162,Home & Garden,980.62,159
+163,SKU-00163,Mock Product 163,Books,3241.38,156
+164,SKU-00164,Mock Product 164,Toys,3555.06,778
+165,SKU-00165,Mock Product 165,Sports,3913.37,536
+166,SKU-00166,Mock Product 166,Books,2028.89,841
+167,SKU-00167,Mock Product 167,Toys,2818.25,107
+168,SKU-00168,Mock Product 168,Groceries,3008.4,805
+169,SKU-00169,Mock Product 169,Clothing,1877.04,487
+170,SKU-00170,Mock Product 170,Home & Garden,2609.26,630
+171,SKU-00171,Mock Product 171,Groceries,2190.87,126
+172,SKU-00172,Mock Product 172,Electronics,4966.4,986
+173,SKU-00173,Mock Product 173,Electronics,3873.68,343
+174,SKU-00174,Mock Product 174,Home & Garden,402.4,136
+175,SKU-00175,Mock Product 175,Home & Garden,4971.35,915
+176,SKU-00176,Mock Product 176,Groceries,4490.57,537
+177,SKU-00177,Mock Product 177,Sports,2469.38,722
+178,SKU-00178,Mock Product 178,Sports,4327.53,14
+179,SKU-00179,Mock Product 179,Toys,3052.29,544
+180,SKU-00180,Mock Product 180,Groceries,993.26,632
+181,SKU-00181,Mock Product 181,Home & Garden,2553.82,340
+182,SKU-00182,Mock Product 182,Clothing,1313.45,936
+183,SKU-00183,Mock Product 183,Home & Garden,2951.85,619
+184,SKU-00184,Mock Product 184,Home & Garden,1497.19,884
+185,SKU-00185,Mock Product 185,Electronics,1050.24,865
+186,SKU-00186,Mock Product 186,Groceries,4656.26,593
+187,SKU-00187,Mock Product 187,Groceries,4624.37,880
+188,SKU-00188,Mock Product 188,Electronics,1686.73,259
+189,SKU-00189,Mock Product 189,Books,2961.0,551
+190,SKU-00190,Mock Product 190,Books,845.16,473
+191,SKU-00191,Mock Product 191,Books,4047.09,18
+192,SKU-00192,Mock Product 192,Sports,4658.31,15
+193,SKU-00193,Mock Product 193,Groceries,4643.63,619
+194,SKU-00194,Mock Product 194,Toys,85.23,652
+195,SKU-00195,Mock Product 195,Toys,1260.96,365
+196,SKU-00196,Mock Product 196,Toys,1975.92,146
+197,SKU-00197,Mock Product 197,Clothing,124.38,572
+198,SKU-00198,Mock Product 198,Books,1266.5,951
+199,SKU-00199,Mock Product 199,Sports,252.39,676
+200,SKU-00200,Mock Product 200,Groceries,1216.73,668
+201,SKU-00201,Mock Product 201,Sports,102.3,8
+202,SKU-00202,Mock Product 202,Books,3151.14,679
+203,SKU-00203,Mock Product 203,Home & Garden,3599.53,915
+204,SKU-00204,Mock Product 204,Toys,4051.48,900
+205,SKU-00205,Mock Product 205,Electronics,4043.35,652
+206,SKU-00206,Mock Product 206,Books,4141.44,702
+207,SKU-00207,Mock Product 207,Toys,4395.79,319
+208,SKU-00208,Mock Product 208,Sports,1246.29,430
+209,SKU-00209,Mock Product 209,Home & Garden,3655.89,5
+210,SKU-00210,Mock Product 210,Books,1176.68,474
+211,SKU-00211,Mock Product 211,Groceries,2753.06,809
+212,SKU-00212,Mock Product 212,Groceries,803.2,241
+213,SKU-00213,Mock Product 213,Sports,161.25,192
+214,SKU-00214,Mock Product 214,Electronics,3316.61,602
+215,SKU-00215,Mock Product 215,Books,1855.51,699
+216,SKU-00216,Mock Product 216,Groceries,1658.13,618
+217,SKU-00217,Mock Product 217,Toys,657.68,894
+218,SKU-00218,Mock Product 218,Home & Garden,4703.1,231
+219,SKU-00219,Mock Product 219,Home & Garden,3445.3,298
+220,SKU-00220,Mock Product 220,Groceries,1408.94,156
+221,SKU-00221,Mock Product 221,Clothing,1054.07,815
+222,SKU-00222,Mock Product 222,Sports,4379.2,415
+223,SKU-00223,Mock Product 223,Groceries,1865.59,188
+224,SKU-00224,Mock Product 224,Clothing,869.06,824
+225,SKU-00225,Mock Product 225,Groceries,1331.62,462
+226,SKU-00226,Mock Product 226,Home & Garden,1054.31,926
+227,SKU-00227,Mock Product 227,Clothing,3165.38,635
+228,SKU-00228,Mock Product 228,Sports,3049.62,472
+229,SKU-00229,Mock Product 229,Groceries,554.15,295
+230,SKU-00230,Mock Product 230,Groceries,1092.51,832
+231,SKU-00231,Mock Product 231,Books,4228.4,475
+232,SKU-00232,Mock Product 232,Home & Garden,3846.85,389
+233,SKU-00233,Mock Product 233,Groceries,314.31,622
+234,SKU-00234,Mock Product 234,Groceries,938.67,13
+235,SKU-00235,Mock Product 235,Home & Garden,217.55,0
+236,SKU-00236,Mock Product 236,Electronics,3685.93,133
+237,SKU-00237,Mock Product 237,Home & Garden,1615.24,723
+238,SKU-00238,Mock Product 238,Sports,3156.13,320
+239,SKU-00239,Mock Product 239,Clothing,3126.17,640
+240,SKU-00240,Mock Product 240,Home & Garden,431.39,306
+241,SKU-00241,Mock Product 241,Books,3425.75,628
+242,SKU-00242,Mock Product 242,Groceries,2164.87,468
+243,SKU-00243,Mock Product 243,Electronics,2564.96,608
+244,SKU-00244,Mock Product 244,Books,3907.13,528
+245,SKU-00245,Mock Product 245,Electronics,4956.68,170
+246,SKU-00246,Mock Product 246,Home & Garden,1278.44,117
+247,SKU-00247,Mock Product 247,Toys,3024.59,365
+248,SKU-00248,Mock Product 248,Electronics,2859.5,933
+249,SKU-00249,Mock Product 249,Home & Garden,3887.05,133
+250,SKU-00250,Mock Product 250,Toys,449.92,510
+251,SKU-00251,Mock Product 251,Books,2748.09,145
+252,SKU-00252,Mock Product 252,Clothing,1843.4,257
+253,SKU-00253,Mock Product 253,Clothing,801.69,760
+254,SKU-00254,Mock Product 254,Sports,3914.95,917
+255,SKU-00255,Mock Product 255,Groceries,488.71,943
+256,SKU-00256,Mock Product 256,Electronics,1529.79,951
+257,SKU-00257,Mock Product 257,Sports,454.34,744
+258,SKU-00258,Mock Product 258,Clothing,4301.51,997
+259,SKU-00259,Mock Product 259,Clothing,3788.75,979
+260,SKU-00260,Mock Product 260,Home & Garden,60.74,937
+261,SKU-00261,Mock Product 261,Electronics,3561.67,763
+262,SKU-00262,Mock Product 262,Home & Garden,348.71,394
+263,SKU-00263,Mock Product 263,Books,4797.79,323
+264,SKU-00264,Mock Product 264,Sports,3080.46,701
+265,SKU-00265,Mock Product 265,Clothing,410.67,147
+266,SKU-00266,Mock Product 266,Sports,965.9,550
+267,SKU-00267,Mock Product 267,Toys,1827.23,949
+268,SKU-00268,Mock Product 268,Home & Garden,4622.54,866
+269,SKU-00269,Mock Product 269,Toys,1426.17,87
+270,SKU-00270,Mock Product 270,Clothing,3023.26,487
+271,SKU-00271,Mock Product 271,Electronics,4144.82,239
+272,SKU-00272,Mock Product 272,Sports,3498.52,720
+273,SKU-00273,Mock Product 273,Toys,2698.03,855
+274,SKU-00274,Mock Product 274,Sports,88.25,614
+275,SKU-00275,Mock Product 275,Books,3000.32,355
+276,SKU-00276,Mock Product 276,Toys,1435.35,829
+277,SKU-00277,Mock Product 277,Books,2853.84,254
+278,SKU-00278,Mock Product 278,Sports,2545.14,304
+279,SKU-00279,Mock Product 279,Sports,2332.77,264
+280,SKU-00280,Mock Product 280,Home & Garden,1957.71,841
+281,SKU-00281,Mock Product 281,Clothing,4959.48,153
+282,SKU-00282,Mock Product 282,Clothing,614.76,818
+283,SKU-00283,Mock Product 283,Home & Garden,3371.58,319
+284,SKU-00284,Mock Product 284,Toys,434.25,555
+285,SKU-00285,Mock Product 285,Toys,1882.5,773
+286,SKU-00286,Mock Product 286,Books,4563.87,887
+287,SKU-00287,Mock Product 287,Sports,3303.19,521
+288,SKU-00288,Mock Product 288,Books,4203.67,465
+289,SKU-00289,Mock Product 289,Home & Garden,2450.56,679
+290,SKU-00290,Mock Product 290,Sports,2858.24,699
+291,SKU-00291,Mock Product 291,Toys,4479.15,307
+292,SKU-00292,Mock Product 292,Electronics,941.43,709
+293,SKU-00293,Mock Product 293,Electronics,3047.2,734
+294,SKU-00294,Mock Product 294,Electronics,4193.11,369
+295,SKU-00295,Mock Product 295,Electronics,2319.63,741
+296,SKU-00296,Mock Product 296,Groceries,2266.44,303
+297,SKU-00297,Mock Product 297,Home & Garden,1853.29,248
+298,SKU-00298,Mock Product 298,Electronics,3203.67,476
+299,SKU-00299,Mock Product 299,Home & Garden,2422.18,486
+300,SKU-00300,Mock Product 300,Toys,2393.53,81
+301,SKU-00301,Mock Product 301,Toys,1012.97,979
+302,SKU-00302,Mock Product 302,Sports,40.83,400
+303,SKU-00303,Mock Product 303,Groceries,3528.76,420
+304,SKU-00304,Mock Product 304,Books,4475.38,854
+305,SKU-00305,Mock Product 305,Books,1143.82,502
+306,SKU-00306,Mock Product 306,Clothing,2895.92,418
+307,SKU-00307,Mock Product 307,Home & Garden,315.91,673
+308,SKU-00308,Mock Product 308,Groceries,4227.04,114
+309,SKU-00309,Mock Product 309,Home & Garden,494.89,577
+310,SKU-00310,Mock Product 310,Toys,3134.88,849
+311,SKU-00311,Mock Product 311,Groceries,4257.7,694
+312,SKU-00312,Mock Product 312,Home & Garden,1267.23,182
+313,SKU-00313,Mock Product 313,Sports,474.04,975
+314,SKU-00314,Mock Product 314,Books,2232.66,549
+315,SKU-00315,Mock Product 315,Sports,1223.18,771
+316,SKU-00316,Mock Product 316,Books,4165.3,116
+317,SKU-00317,Mock Product 317,Groceries,2700.01,391
+318,SKU-00318,Mock Product 318,Books,4231.08,535
+319,SKU-00319,Mock Product 319,Groceries,684.29,196
+320,SKU-00320,Mock Product 320,Sports,2079.78,752
+321,SKU-00321,Mock Product 321,Clothing,3268.68,617
+322,SKU-00322,Mock Product 322,Home & Garden,1128.18,430
+323,SKU-00323,Mock Product 323,Sports,3121.78,184
+324,SKU-00324,Mock Product 324,Electronics,377.72,256
+325,SKU-00325,Mock Product 325,Groceries,778.82,740
+326,SKU-00326,Mock Product 326,Toys,2119.6,412
+327,SKU-00327,Mock Product 327,Books,1236.95,295
+328,SKU-00328,Mock Product 328,Toys,4328.97,390
+329,SKU-00329,Mock Product 329,Sports,4348.31,271
+330,SKU-00330,Mock Product 330,Electronics,4858.01,148
+331,SKU-00331,Mock Product 331,Clothing,205.88,696
+332,SKU-00332,Mock Product 332,Books,4663.2,285
+333,SKU-00333,Mock Product 333,Electronics,4209.31,260
+334,SKU-00334,Mock Product 334,Home & Garden,3189.75,225
+335,SKU-00335,Mock Product 335,Clothing,3956.9,566
+336,SKU-00336,Mock Product 336,Books,2584.15,326
+337,SKU-00337,Mock Product 337,Clothing,889.63,575
+338,SKU-00338,Mock Product 338,Electronics,99.68,995
+339,SKU-00339,Mock Product 339,Groceries,2744.38,729
+340,SKU-00340,Mock Product 340,Electronics,3028.53,377
+341,SKU-00341,Mock Product 341,Books,4893.89,746
+342,SKU-00342,Mock Product 342,Clothing,4327.25,540
+343,SKU-00343,Mock Product 343,Toys,1428.48,565
+344,SKU-00344,Mock Product 344,Books,4211.01,570
+345,SKU-00345,Mock Product 345,Books,4476.61,189
+346,SKU-00346,Mock Product 346,Groceries,1901.86,173
+347,SKU-00347,Mock Product 347,Sports,4172.85,45
+348,SKU-00348,Mock Product 348,Toys,4740.53,995
+349,SKU-00349,Mock Product 349,Home & Garden,3568.37,0
+350,SKU-00350,Mock Product 350,Books,1260.04,194
+351,SKU-00351,Mock Product 351,Books,781.08,479
+352,SKU-00352,Mock Product 352,Toys,499.9,924
+353,SKU-00353,Mock Product 353,Groceries,3480.85,352
+354,SKU-00354,Mock Product 354,Clothing,1420.94,250
+355,SKU-00355,Mock Product 355,Home & Garden,578.16,130
+356,SKU-00356,Mock Product 356,Home & Garden,4465.31,562
+357,SKU-00357,Mock Product 357,Clothing,1811.46,242
+358,SKU-00358,Mock Product 358,Sports,1233.98,187
+359,SKU-00359,Mock Product 359,Books,4464.57,673
+360,SKU-00360,Mock Product 360,Electronics,3919.53,220
+361,SKU-00361,Mock Product 361,Groceries,102.54,155
+362,SKU-00362,Mock Product 362,Toys,2646.06,408
+363,SKU-00363,Mock Product 363,Electronics,2133.13,202
+364,SKU-00364,Mock Product 364,Toys,4850.74,244
+365,SKU-00365,Mock Product 365,Home & Garden,3968.22,504
+366,SKU-00366,Mock Product 366,Sports,2367.54,439
+367,SKU-00367,Mock Product 367,Home & Garden,1480.88,630
+368,SKU-00368,Mock Product 368,Home & Garden,3600.59,363
+369,SKU-00369,Mock Product 369,Books,4023.43,947
+370,SKU-00370,Mock Product 370,Books,4704.13,353
+371,SKU-00371,Mock Product 371,Groceries,1990.52,72
+372,SKU-00372,Mock Product 372,Groceries,1767.22,317
+373,SKU-00373,Mock Product 373,Clothing,4531.36,654
+374,SKU-00374,Mock Product 374,Sports,981.38,747
+375,SKU-00375,Mock Product 375,Sports,1464.53,762
+376,SKU-00376,Mock Product 376,Sports,1550.37,543
+377,SKU-00377,Mock Product 377,Toys,2876.14,568
+378,SKU-00378,Mock Product 378,Clothing,1121.15,581
+379,SKU-00379,Mock Product 379,Electronics,323.37,9
+380,SKU-00380,Mock Product 380,Electronics,3941.12,79
+381,SKU-00381,Mock Product 381,Home & Garden,3972.54,711
+382,SKU-00382,Mock Product 382,Home & Garden,2952.32,46
+383,SKU-00383,Mock Product 383,Sports,1839.51,149
+384,SKU-00384,Mock Product 384,Groceries,2813.82,359
+385,SKU-00385,Mock Product 385,Sports,4309.91,605
+386,SKU-00386,Mock Product 386,Electronics,4619.91,875
+387,SKU-00387,Mock Product 387,Toys,2453.3,242
+388,SKU-00388,Mock Product 388,Sports,475.38,753
+389,SKU-00389,Mock Product 389,Books,825.04,227
+390,SKU-00390,Mock Product 390,Clothing,734.47,224
+391,SKU-00391,Mock Product 391,Groceries,545.65,465
+392,SKU-00392,Mock Product 392,Books,4147.29,698
+393,SKU-00393,Mock Product 393,Electronics,3676.91,283
+394,SKU-00394,Mock Product 394,Home & Garden,2677.79,268
+395,SKU-00395,Mock Product 395,Toys,2293.09,417
+396,SKU-00396,Mock Product 396,Electronics,2432.47,462
+397,SKU-00397,Mock Product 397,Toys,4722.85,188
+398,SKU-00398,Mock Product 398,Books,3681.87,325
+399,SKU-00399,Mock Product 399,Home & Garden,935.5,53
+400,SKU-00400,Mock Product 400,Home & Garden,2808.68,505
+401,SKU-00401,Mock Product 401,Books,1294.78,4
+402,SKU-00402,Mock Product 402,Groceries,4892.72,790
+403,SKU-00403,Mock Product 403,Toys,480.08,869
+404,SKU-00404,Mock Product 404,Books,2513.11,748
+405,SKU-00405,Mock Product 405,Sports,2282.13,367
+406,SKU-00406,Mock Product 406,Books,1153.0,855
+407,SKU-00407,Mock Product 407,Clothing,2291.87,549
+408,SKU-00408,Mock Product 408,Home & Garden,4940.48,624
+409,SKU-00409,Mock Product 409,Clothing,284.25,458
+410,SKU-00410,Mock Product 410,Clothing,4167.25,913
+411,SKU-00411,Mock Product 411,Toys,4984.22,549
+412,SKU-00412,Mock Product 412,Clothing,3557.28,471
+413,SKU-00413,Mock Product 413,Groceries,4118.78,835
+414,SKU-00414,Mock Product 414,Home & Garden,85.75,345
+415,SKU-00415,Mock Product 415,Electronics,273.97,481
+416,SKU-00416,Mock Product 416,Groceries,2396.26,802
+417,SKU-00417,Mock Product 417,Toys,622.91,687
+418,SKU-00418,Mock Product 418,Clothing,4483.51,869
+419,SKU-00419,Mock Product 419,Sports,4536.4,740
+420,SKU-00420,Mock Product 420,Groceries,1799.73,37
+421,SKU-00421,Mock Product 421,Books,4612.91,366
+422,SKU-00422,Mock Product 422,Home & Garden,3551.95,785
+423,SKU-00423,Mock Product 423,Sports,1441.03,753
+424,SKU-00424,Mock Product 424,Clothing,850.16,559
+425,SKU-00425,Mock Product 425,Home & Garden,3713.27,365
+426,SKU-00426,Mock Product 426,Books,1966.25,435
+427,SKU-00427,Mock Product 427,Toys,536.06,218
+428,SKU-00428,Mock Product 428,Sports,4532.08,691
+429,SKU-00429,Mock Product 429,Groceries,4839.22,327
+430,SKU-00430,Mock Product 430,Groceries,4669.64,257
+431,SKU-00431,Mock Product 431,Groceries,3294.77,750
+432,SKU-00432,Mock Product 432,Electronics,4230.98,836
+433,SKU-00433,Mock Product 433,Toys,4118.38,45
+434,SKU-00434,Mock Product 434,Toys,2688.44,817
+435,SKU-00435,Mock Product 435,Home & Garden,2114.92,443
+436,SKU-00436,Mock Product 436,Sports,3787.72,98
+437,SKU-00437,Mock Product 437,Home & Garden,4389.45,816
+438,SKU-00438,Mock Product 438,Clothing,3390.29,546
+439,SKU-00439,Mock Product 439,Home & Garden,4256.54,808
+440,SKU-00440,Mock Product 440,Electronics,4235.09,484
+441,SKU-00441,Mock Product 441,Toys,4307.7,823
+442,SKU-00442,Mock Product 442,Sports,1976.35,507
+443,SKU-00443,Mock Product 443,Books,4944.73,110
+444,SKU-00444,Mock Product 444,Toys,4232.65,361
+445,SKU-00445,Mock Product 445,Electronics,4082.97,213
+446,SKU-00446,Mock Product 446,Electronics,1003.7,18
+447,SKU-00447,Mock Product 447,Home & Garden,1882.07,277
+448,SKU-00448,Mock Product 448,Books,1305.83,201
+449,SKU-00449,Mock Product 449,Books,530.54,135
+450,SKU-00450,Mock Product 450,Clothing,420.78,509
+451,SKU-00451,Mock Product 451,Toys,3672.78,614
+452,SKU-00452,Mock Product 452,Toys,3867.18,689
+453,SKU-00453,Mock Product 453,Groceries,4545.91,92
+454,SKU-00454,Mock Product 454,Books,3532.11,860
+455,SKU-00455,Mock Product 455,Electronics,3822.19,535
+456,SKU-00456,Mock Product 456,Electronics,204.74,301
+457,SKU-00457,Mock Product 457,Toys,580.66,559
+458,SKU-00458,Mock Product 458,Electronics,2007.63,690
+459,SKU-00459,Mock Product 459,Toys,2672.36,654
+460,SKU-00460,Mock Product 460,Groceries,4443.01,702
+461,SKU-00461,Mock Product 461,Home & Garden,3600.18,289
+462,SKU-00462,Mock Product 462,Electronics,2829.04,224
+463,SKU-00463,Mock Product 463,Clothing,2370.45,956
+464,SKU-00464,Mock Product 464,Electronics,4246.39,327
+465,SKU-00465,Mock Product 465,Books,3548.43,242
+466,SKU-00466,Mock Product 466,Home & Garden,2193.4,879
+467,SKU-00467,Mock Product 467,Books,3451.65,293
+468,SKU-00468,Mock Product 468,Toys,2222.15,194
+469,SKU-00469,Mock Product 469,Books,3409.35,998
+470,SKU-00470,Mock Product 470,Home & Garden,2867.01,719
+471,SKU-00471,Mock Product 471,Books,1914.7,245
+472,SKU-00472,Mock Product 472,Sports,848.93,737
+473,SKU-00473,Mock Product 473,Clothing,4766.17,505
+474,SKU-00474,Mock Product 474,Clothing,2019.11,787
+475,SKU-00475,Mock Product 475,Groceries,2104.97,32
+476,SKU-00476,Mock Product 476,Electronics,480.09,681
+477,SKU-00477,Mock Product 477,Sports,4760.62,16
+478,SKU-00478,Mock Product 478,Toys,207.98,893
+479,SKU-00479,Mock Product 479,Sports,1787.96,457
+480,SKU-00480,Mock Product 480,Toys,2773.31,434
+481,SKU-00481,Mock Product 481,Books,976.31,657
+482,SKU-00482,Mock Product 482,Electronics,2685.86,544
+483,SKU-00483,Mock Product 483,Toys,4941.39,973
+484,SKU-00484,Mock Product 484,Clothing,2046.14,671
+485,SKU-00485,Mock Product 485,Electronics,2848.42,738
+486,SKU-00486,Mock Product 486,Home & Garden,499.57,639
+487,SKU-00487,Mock Product 487,Books,4330.41,701
+488,SKU-00488,Mock Product 488,Toys,1567.45,600
+489,SKU-00489,Mock Product 489,Books,938.89,863
+490,SKU-00490,Mock Product 490,Clothing,1644.97,836
+491,SKU-00491,Mock Product 491,Books,4756.43,611
+492,SKU-00492,Mock Product 492,Clothing,977.04,730
+493,SKU-00493,Mock Product 493,Electronics,488.29,173
+494,SKU-00494,Mock Product 494,Toys,2644.3,891
+495,SKU-00495,Mock Product 495,Groceries,2325.41,439
+496,SKU-00496,Mock Product 496,Clothing,2342.32,231
+497,SKU-00497,Mock Product 497,Electronics,572.94,151
+498,SKU-00498,Mock Product 498,Clothing,539.19,738
+499,SKU-00499,Mock Product 499,Books,3719.03,683
+500,SKU-00500,Mock Product 500,Books,1122.63,449
+501,SKU-00501,Mock Product 501,Sports,3768.53,441
+502,SKU-00502,Mock Product 502,Toys,584.21,615
+503,SKU-00503,Mock Product 503,Clothing,130.02,433
+504,SKU-00504,Mock Product 504,Home & Garden,782.8,164
+505,SKU-00505,Mock Product 505,Toys,1675.87,388
+506,SKU-00506,Mock Product 506,Groceries,4793.43,411
+507,SKU-00507,Mock Product 507,Home & Garden,1671.42,259
+508,SKU-00508,Mock Product 508,Books,4905.99,552
+509,SKU-00509,Mock Product 509,Books,3670.29,377
+510,SKU-00510,Mock Product 510,Sports,2677.13,594
+511,SKU-00511,Mock Product 511,Groceries,2708.16,886
+512,SKU-00512,Mock Product 512,Home & Garden,2081.26,886
+513,SKU-00513,Mock Product 513,Groceries,4755.26,446
+514,SKU-00514,Mock Product 514,Clothing,755.11,352
+515,SKU-00515,Mock Product 515,Home & Garden,4246.45,523
+516,SKU-00516,Mock Product 516,Groceries,3302.52,51
+517,SKU-00517,Mock Product 517,Sports,586.1,950
+518,SKU-00518,Mock Product 518,Electronics,2494.14,965
+519,SKU-00519,Mock Product 519,Groceries,4756.84,907
+520,SKU-00520,Mock Product 520,Clothing,3845.1,164
+521,SKU-00521,Mock Product 521,Books,2682.3,40
+522,SKU-00522,Mock Product 522,Home & Garden,3199.65,505
+523,SKU-00523,Mock Product 523,Groceries,3040.6,595
+524,SKU-00524,Mock Product 524,Toys,4240.1,739
+525,SKU-00525,Mock Product 525,Electronics,585.54,388
+526,SKU-00526,Mock Product 526,Sports,1644.34,223
+527,SKU-00527,Mock Product 527,Books,1149.46,705
+528,SKU-00528,Mock Product 528,Sports,2730.54,866
+529,SKU-00529,Mock Product 529,Groceries,2017.88,157
+530,SKU-00530,Mock Product 530,Books,1905.89,933
+531,SKU-00531,Mock Product 531,Home & Garden,1161.66,347
+532,SKU-00532,Mock Product 532,Clothing,3341.59,346
+533,SKU-00533,Mock Product 533,Sports,283.98,456
+534,SKU-00534,Mock Product 534,Toys,124.86,820
+535,SKU-00535,Mock Product 535,Home & Garden,2607.22,980
+536,SKU-00536,Mock Product 536,Groceries,2265.43,687
+537,SKU-00537,Mock Product 537,Toys,4518.79,40
+538,SKU-00538,Mock Product 538,Home & Garden,2135.71,862
+539,SKU-00539,Mock Product 539,Electronics,4274.76,784
+540,SKU-00540,Mock Product 540,Clothing,635.0,301
+541,SKU-00541,Mock Product 541,Clothing,1696.04,598
+542,SKU-00542,Mock Product 542,Toys,3481.44,816
+543,SKU-00543,Mock Product 543,Books,543.77,540
+544,SKU-00544,Mock Product 544,Sports,4741.07,176
+545,SKU-00545,Mock Product 545,Clothing,2788.18,194
+546,SKU-00546,Mock Product 546,Electronics,1741.25,622
+547,SKU-00547,Mock Product 547,Electronics,2542.66,3
+548,SKU-00548,Mock Product 548,Home & Garden,790.99,87
+549,SKU-00549,Mock Product 549,Groceries,430.86,87
+550,SKU-00550,Mock Product 550,Home & Garden,2260.59,859
+551,SKU-00551,Mock Product 551,Sports,318.01,157
+552,SKU-00552,Mock Product 552,Clothing,3735.2,516
+553,SKU-00553,Mock Product 553,Clothing,1791.0,33
+554,SKU-00554,Mock Product 554,Clothing,4495.61,481
+555,SKU-00555,Mock Product 555,Groceries,4404.23,611
+556,SKU-00556,Mock Product 556,Clothing,1367.56,911
+557,SKU-00557,Mock Product 557,Sports,2749.62,893
+558,SKU-00558,Mock Product 558,Electronics,132.2,281
+559,SKU-00559,Mock Product 559,Books,2291.41,180
+560,SKU-00560,Mock Product 560,Groceries,3783.25,610
+561,SKU-00561,Mock Product 561,Clothing,2023.99,178
+562,SKU-00562,Mock Product 562,Home & Garden,3206.23,200
+563,SKU-00563,Mock Product 563,Home & Garden,771.18,129
+564,SKU-00564,Mock Product 564,Toys,4607.16,251
+565,SKU-00565,Mock Product 565,Home & Garden,159.76,340
+566,SKU-00566,Mock Product 566,Toys,3671.74,758
+567,SKU-00567,Mock Product 567,Electronics,4674.9,382
+568,SKU-00568,Mock Product 568,Books,4098.08,764
+569,SKU-00569,Mock Product 569,Books,3518.66,785
+570,SKU-00570,Mock Product 570,Toys,2071.01,99
+571,SKU-00571,Mock Product 571,Groceries,1186.24,580
+572,SKU-00572,Mock Product 572,Clothing,3464.96,74
+573,SKU-00573,Mock Product 573,Books,1933.49,473
+574,SKU-00574,Mock Product 574,Toys,1076.88,352
+575,SKU-00575,Mock Product 575,Toys,332.75,694
+576,SKU-00576,Mock Product 576,Books,3573.45,107
+577,SKU-00577,Mock Product 577,Groceries,1148.53,33
+578,SKU-00578,Mock Product 578,Toys,2970.5,412
+579,SKU-00579,Mock Product 579,Toys,4113.9,277
+580,SKU-00580,Mock Product 580,Books,4091.23,48
+581,SKU-00581,Mock Product 581,Sports,4815.32,475
+582,SKU-00582,Mock Product 582,Electronics,4943.34,44
+583,SKU-00583,Mock Product 583,Sports,2344.29,266
+584,SKU-00584,Mock Product 584,Home & Garden,1765.65,502
+585,SKU-00585,Mock Product 585,Home & Garden,4567.13,389
+586,SKU-00586,Mock Product 586,Home & Garden,3086.72,51
+587,SKU-00587,Mock Product 587,Books,3620.3,533
+588,SKU-00588,Mock Product 588,Books,1793.76,224
+589,SKU-00589,Mock Product 589,Groceries,67.26,249
+590,SKU-00590,Mock Product 590,Toys,2350.34,627
+591,SKU-00591,Mock Product 591,Home & Garden,3510.59,351
+592,SKU-00592,Mock Product 592,Groceries,3577.8,902
+593,SKU-00593,Mock Product 593,Clothing,1356.01,295
+594,SKU-00594,Mock Product 594,Books,2929.29,246
+595,SKU-00595,Mock Product 595,Home & Garden,2571.36,891
+596,SKU-00596,Mock Product 596,Books,1231.48,114
+597,SKU-00597,Mock Product 597,Toys,513.89,636
+598,SKU-00598,Mock Product 598,Home & Garden,298.55,813
+599,SKU-00599,Mock Product 599,Sports,4935.59,514
+600,SKU-00600,Mock Product 600,Home & Garden,1557.53,985
+601,SKU-00601,Mock Product 601,Sports,4765.61,654
+602,SKU-00602,Mock Product 602,Toys,4730.97,539
+603,SKU-00603,Mock Product 603,Electronics,1040.81,42
+604,SKU-00604,Mock Product 604,Toys,4183.03,551
+605,SKU-00605,Mock Product 605,Books,324.29,263
+606,SKU-00606,Mock Product 606,Groceries,4515.64,387
+607,SKU-00607,Mock Product 607,Electronics,4648.41,688
+608,SKU-00608,Mock Product 608,Books,2247.3,241
+609,SKU-00609,Mock Product 609,Groceries,1519.93,658
+610,SKU-00610,Mock Product 610,Sports,2298.27,657
+611,SKU-00611,Mock Product 611,Home & Garden,3903.33,845
+612,SKU-00612,Mock Product 612,Sports,3147.96,488
+613,SKU-00613,Mock Product 613,Home & Garden,1703.51,208
+614,SKU-00614,Mock Product 614,Electronics,1652.79,290
+615,SKU-00615,Mock Product 615,Books,4116.86,291
+616,SKU-00616,Mock Product 616,Toys,4320.21,603
+617,SKU-00617,Mock Product 617,Electronics,145.49,79
+618,SKU-00618,Mock Product 618,Toys,3436.62,984
+619,SKU-00619,Mock Product 619,Groceries,4795.2,953
+620,SKU-00620,Mock Product 620,Sports,2983.14,971
+621,SKU-00621,Mock Product 621,Home & Garden,784.63,1000
+622,SKU-00622,Mock Product 622,Books,1553.69,915
+623,SKU-00623,Mock Product 623,Sports,4260.78,765
+624,SKU-00624,Mock Product 624,Sports,563.65,27
+625,SKU-00625,Mock Product 625,Toys,4059.0,216
+626,SKU-00626,Mock Product 626,Sports,739.49,907
+627,SKU-00627,Mock Product 627,Toys,3263.19,536
+628,SKU-00628,Mock Product 628,Home & Garden,4349.75,73
+629,SKU-00629,Mock Product 629,Clothing,3437.25,215
+630,SKU-00630,Mock Product 630,Electronics,2446.22,216
+631,SKU-00631,Mock Product 631,Clothing,3065.52,472
+632,SKU-00632,Mock Product 632,Groceries,2090.66,670
+633,SKU-00633,Mock Product 633,Clothing,1499.21,973
+634,SKU-00634,Mock Product 634,Electronics,3390.51,391
+635,SKU-00635,Mock Product 635,Clothing,4443.09,79
+636,SKU-00636,Mock Product 636,Home & Garden,3562.89,268
+637,SKU-00637,Mock Product 637,Toys,2924.96,771
+638,SKU-00638,Mock Product 638,Electronics,2493.09,305
+639,SKU-00639,Mock Product 639,Toys,1959.67,278
+640,SKU-00640,Mock Product 640,Home & Garden,3707.44,615
+641,SKU-00641,Mock Product 641,Home & Garden,2560.87,968
+642,SKU-00642,Mock Product 642,Sports,3835.02,616
+643,SKU-00643,Mock Product 643,Electronics,3185.4,125
+644,SKU-00644,Mock Product 644,Electronics,1244.88,934
+645,SKU-00645,Mock Product 645,Home & Garden,4070.0,91
+646,SKU-00646,Mock Product 646,Home & Garden,807.46,591
+647,SKU-00647,Mock Product 647,Clothing,1274.12,625
+648,SKU-00648,Mock Product 648,Sports,469.49,283
+649,SKU-00649,Mock Product 649,Electronics,127.94,161
+650,SKU-00650,Mock Product 650,Books,2104.28,231
+651,SKU-00651,Mock Product 651,Toys,140.09,849
+652,SKU-00652,Mock Product 652,Books,1904.28,195
+653,SKU-00653,Mock Product 653,Groceries,601.62,18
+654,SKU-00654,Mock Product 654,Toys,74.1,754
+655,SKU-00655,Mock Product 655,Books,120.85,169
+656,SKU-00656,Mock Product 656,Toys,3743.6,28
+657,SKU-00657,Mock Product 657,Sports,1698.74,541
+658,SKU-00658,Mock Product 658,Books,1245.37,563
+659,SKU-00659,Mock Product 659,Clothing,1295.32,969
+660,SKU-00660,Mock Product 660,Electronics,2431.78,841
+661,SKU-00661,Mock Product 661,Toys,1784.45,87
+662,SKU-00662,Mock Product 662,Groceries,1537.86,478
+663,SKU-00663,Mock Product 663,Books,1192.72,242
+664,SKU-00664,Mock Product 664,Home & Garden,1180.71,600
+665,SKU-00665,Mock Product 665,Electronics,946.77,328
+666,SKU-00666,Mock Product 666,Toys,1158.59,479
+667,SKU-00667,Mock Product 667,Electronics,4600.9,826
+668,SKU-00668,Mock Product 668,Groceries,371.43,298
+669,SKU-00669,Mock Product 669,Electronics,3129.58,529
+670,SKU-00670,Mock Product 670,Sports,4951.0,319
+671,SKU-00671,Mock Product 671,Toys,4268.05,780
+672,SKU-00672,Mock Product 672,Electronics,2422.67,624
+673,SKU-00673,Mock Product 673,Toys,3206.77,72
+674,SKU-00674,Mock Product 674,Sports,3045.84,197
+675,SKU-00675,Mock Product 675,Clothing,822.26,579
+676,SKU-00676,Mock Product 676,Electronics,1181.47,747
+677,SKU-00677,Mock Product 677,Sports,45.02,472
+678,SKU-00678,Mock Product 678,Groceries,3742.53,677
+679,SKU-00679,Mock Product 679,Home & Garden,2172.15,653
+680,SKU-00680,Mock Product 680,Clothing,3366.64,241
+681,SKU-00681,Mock Product 681,Sports,2163.86,495
+682,SKU-00682,Mock Product 682,Books,4710.39,855
+683,SKU-00683,Mock Product 683,Clothing,381.49,607
+684,SKU-00684,Mock Product 684,Toys,3130.93,385
+685,SKU-00685,Mock Product 685,Sports,434.0,429
+686,SKU-00686,Mock Product 686,Books,4311.22,713
+687,SKU-00687,Mock Product 687,Sports,343.32,429
+688,SKU-00688,Mock Product 688,Toys,999.99,482
+689,SKU-00689,Mock Product 689,Home & Garden,42.67,261
+690,SKU-00690,Mock Product 690,Home & Garden,3071.04,383
+691,SKU-00691,Mock Product 691,Groceries,1582.01,877
+692,SKU-00692,Mock Product 692,Sports,4629.69,70
+693,SKU-00693,Mock Product 693,Groceries,2758.72,344
+694,SKU-00694,Mock Product 694,Electronics,4360.55,983
+695,SKU-00695,Mock Product 695,Groceries,762.18,81
+696,SKU-00696,Mock Product 696,Home & Garden,3200.45,876
+697,SKU-00697,Mock Product 697,Toys,1310.25,224
+698,SKU-00698,Mock Product 698,Home & Garden,4188.03,298
+699,SKU-00699,Mock Product 699,Toys,4601.64,168
+700,SKU-00700,Mock Product 700,Groceries,728.03,420
+701,SKU-00701,Mock Product 701,Clothing,2326.65,422
+702,SKU-00702,Mock Product 702,Books,3418.37,764
+703,SKU-00703,Mock Product 703,Home & Garden,2916.95,654
+704,SKU-00704,Mock Product 704,Electronics,4838.98,670
+705,SKU-00705,Mock Product 705,Books,4232.36,266
+706,SKU-00706,Mock Product 706,Toys,3972.13,419
+707,SKU-00707,Mock Product 707,Groceries,1194.29,367
+708,SKU-00708,Mock Product 708,Home & Garden,4775.63,996
+709,SKU-00709,Mock Product 709,Toys,1968.3,62
+710,SKU-00710,Mock Product 710,Electronics,4079.08,921
+711,SKU-00711,Mock Product 711,Clothing,2912.45,287
+712,SKU-00712,Mock Product 712,Groceries,1459.97,31
+713,SKU-00713,Mock Product 713,Electronics,4319.36,483
+714,SKU-00714,Mock Product 714,Home & Garden,4198.07,960
+715,SKU-00715,Mock Product 715,Toys,1345.17,870
+716,SKU-00716,Mock Product 716,Groceries,1935.49,136
+717,SKU-00717,Mock Product 717,Clothing,1550.32,2
+718,SKU-00718,Mock Product 718,Home & Garden,437.22,336
+719,SKU-00719,Mock Product 719,Electronics,4251.26,221
+720,SKU-00720,Mock Product 720,Electronics,2189.31,405
+721,SKU-00721,Mock Product 721,Home & Garden,93.68,953
+722,SKU-00722,Mock Product 722,Electronics,3066.52,253
+723,SKU-00723,Mock Product 723,Books,2989.89,799
+724,SKU-00724,Mock Product 724,Clothing,3238.66,195
+725,SKU-00725,Mock Product 725,Clothing,1883.71,932
+726,SKU-00726,Mock Product 726,Electronics,1412.38,905
+727,SKU-00727,Mock Product 727,Toys,1141.07,49
+728,SKU-00728,Mock Product 728,Sports,1720.04,306
+729,SKU-00729,Mock Product 729,Clothing,3272.63,934
+730,SKU-00730,Mock Product 730,Sports,1887.22,644
+731,SKU-00731,Mock Product 731,Sports,1685.44,671
+732,SKU-00732,Mock Product 732,Home & Garden,3185.96,589
+733,SKU-00733,Mock Product 733,Groceries,1237.21,224
+734,SKU-00734,Mock Product 734,Sports,2141.13,315
+735,SKU-00735,Mock Product 735,Electronics,1776.43,864
+736,SKU-00736,Mock Product 736,Clothing,3374.71,643
+737,SKU-00737,Mock Product 737,Groceries,2378.96,818
+738,SKU-00738,Mock Product 738,Electronics,4721.08,353
+739,SKU-00739,Mock Product 739,Groceries,1046.03,260
+740,SKU-00740,Mock Product 740,Books,618.13,5
+741,SKU-00741,Mock Product 741,Books,3043.25,970
+742,SKU-00742,Mock Product 742,Toys,1149.62,880
+743,SKU-00743,Mock Product 743,Books,2405.57,811
+744,SKU-00744,Mock Product 744,Sports,2156.28,407
+745,SKU-00745,Mock Product 745,Books,2780.97,940
+746,SKU-00746,Mock Product 746,Sports,4857.48,998
+747,SKU-00747,Mock Product 747,Groceries,638.84,164
+748,SKU-00748,Mock Product 748,Toys,1402.9,734
+749,SKU-00749,Mock Product 749,Sports,3005.85,340
+750,SKU-00750,Mock Product 750,Home & Garden,2618.93,685
+751,SKU-00751,Mock Product 751,Home & Garden,4210.09,853
+752,SKU-00752,Mock Product 752,Books,1856.82,400
+753,SKU-00753,Mock Product 753,Toys,2931.64,402
+754,SKU-00754,Mock Product 754,Toys,1620.48,387
+755,SKU-00755,Mock Product 755,Books,3263.47,213
+756,SKU-00756,Mock Product 756,Groceries,4290.25,878
+757,SKU-00757,Mock Product 757,Home & Garden,4478.92,315
+758,SKU-00758,Mock Product 758,Home & Garden,3980.65,180
+759,SKU-00759,Mock Product 759,Books,4030.25,562
+760,SKU-00760,Mock Product 760,Electronics,1548.92,689
+761,SKU-00761,Mock Product 761,Books,1097.43,341
+762,SKU-00762,Mock Product 762,Sports,2037.05,567
+763,SKU-00763,Mock Product 763,Home & Garden,3663.37,119
+764,SKU-00764,Mock Product 764,Home & Garden,2226.69,199
+765,SKU-00765,Mock Product 765,Books,1424.04,878
+766,SKU-00766,Mock Product 766,Home & Garden,3588.86,868
+767,SKU-00767,Mock Product 767,Electronics,2284.41,22
+768,SKU-00768,Mock Product 768,Home & Garden,2222.8,822
+769,SKU-00769,Mock Product 769,Sports,4199.98,650
+770,SKU-00770,Mock Product 770,Clothing,1755.13,572
+771,SKU-00771,Mock Product 771,Sports,289.99,239
+772,SKU-00772,Mock Product 772,Toys,3875.53,981
+773,SKU-00773,Mock Product 773,Sports,1551.94,577
+774,SKU-00774,Mock Product 774,Clothing,450.99,347
+775,SKU-00775,Mock Product 775,Electronics,1756.06,794
+776,SKU-00776,Mock Product 776,Groceries,142.47,893
+777,SKU-00777,Mock Product 777,Books,2077.46,383
+778,SKU-00778,Mock Product 778,Home & Garden,1884.21,640
+779,SKU-00779,Mock Product 779,Sports,86.06,572
+780,SKU-00780,Mock Product 780,Groceries,4982.09,150
+781,SKU-00781,Mock Product 781,Clothing,2720.54,86
+782,SKU-00782,Mock Product 782,Home & Garden,147.88,143
+783,SKU-00783,Mock Product 783,Books,41.05,350
+784,SKU-00784,Mock Product 784,Groceries,2566.81,207
+785,SKU-00785,Mock Product 785,Toys,3741.23,398
+786,SKU-00786,Mock Product 786,Home & Garden,287.29,818
+787,SKU-00787,Mock Product 787,Electronics,3735.76,760
+788,SKU-00788,Mock Product 788,Sports,3906.47,295
+789,SKU-00789,Mock Product 789,Toys,1432.18,408
+790,SKU-00790,Mock Product 790,Toys,3447.9,410
+791,SKU-00791,Mock Product 791,Home & Garden,1394.32,750
+792,SKU-00792,Mock Product 792,Toys,839.44,789
+793,SKU-00793,Mock Product 793,Books,191.91,143
+794,SKU-00794,Mock Product 794,Clothing,2704.79,660
+795,SKU-00795,Mock Product 795,Toys,2034.25,532
+796,SKU-00796,Mock Product 796,Books,4016.74,979
+797,SKU-00797,Mock Product 797,Sports,4573.17,814
+798,SKU-00798,Mock Product 798,Electronics,4170.48,383
+799,SKU-00799,Mock Product 799,Books,4047.46,443
+800,SKU-00800,Mock Product 800,Home & Garden,1809.64,663
+801,SKU-00801,Mock Product 801,Books,1243.14,186
+802,SKU-00802,Mock Product 802,Electronics,1237.78,814
+803,SKU-00803,Mock Product 803,Electronics,4544.47,964
+804,SKU-00804,Mock Product 804,Electronics,3811.41,273
+805,SKU-00805,Mock Product 805,Clothing,287.96,317
+806,SKU-00806,Mock Product 806,Books,131.42,735
+807,SKU-00807,Mock Product 807,Clothing,4677.52,707
+808,SKU-00808,Mock Product 808,Books,2854.34,213
+809,SKU-00809,Mock Product 809,Sports,3104.43,728
+810,SKU-00810,Mock Product 810,Books,2694.6,608
+811,SKU-00811,Mock Product 811,Home & Garden,95.73,573
+812,SKU-00812,Mock Product 812,Toys,4622.84,653
+813,SKU-00813,Mock Product 813,Clothing,952.88,322
+814,SKU-00814,Mock Product 814,Books,3110.03,470
+815,SKU-00815,Mock Product 815,Books,2374.91,743
+816,SKU-00816,Mock Product 816,Books,1247.53,76
+817,SKU-00817,Mock Product 817,Electronics,3798.7,972
+818,SKU-00818,Mock Product 818,Sports,1691.29,572
+819,SKU-00819,Mock Product 819,Electronics,2142.95,46
+820,SKU-00820,Mock Product 820,Clothing,1886.24,229
+821,SKU-00821,Mock Product 821,Clothing,1562.15,889
+822,SKU-00822,Mock Product 822,Electronics,2979.71,571
+823,SKU-00823,Mock Product 823,Books,4892.28,331
+824,SKU-00824,Mock Product 824,Toys,2349.66,303
+825,SKU-00825,Mock Product 825,Sports,4366.02,886
+826,SKU-00826,Mock Product 826,Groceries,2668.7,867
+827,SKU-00827,Mock Product 827,Electronics,4876.94,217
+828,SKU-00828,Mock Product 828,Groceries,4204.94,811
+829,SKU-00829,Mock Product 829,Clothing,2028.46,546
+830,SKU-00830,Mock Product 830,Electronics,1158.94,277
+831,SKU-00831,Mock Product 831,Books,1447.85,149
+832,SKU-00832,Mock Product 832,Home & Garden,1791.53,227
+833,SKU-00833,Mock Product 833,Home & Garden,923.62,961
+834,SKU-00834,Mock Product 834,Books,4957.63,288
+835,SKU-00835,Mock Product 835,Sports,824.78,582
+836,SKU-00836,Mock Product 836,Books,3184.86,68
+837,SKU-00837,Mock Product 837,Clothing,2265.42,371
+838,SKU-00838,Mock Product 838,Home & Garden,1605.7,221
+839,SKU-00839,Mock Product 839,Electronics,158.88,197
+840,SKU-00840,Mock Product 840,Home & Garden,1257.06,9
+841,SKU-00841,Mock Product 841,Groceries,2484.52,875
+842,SKU-00842,Mock Product 842,Toys,68.18,659
+843,SKU-00843,Mock Product 843,Electronics,1112.41,592
+844,SKU-00844,Mock Product 844,Home & Garden,3408.55,506
+845,SKU-00845,Mock Product 845,Electronics,4661.49,512
+846,SKU-00846,Mock Product 846,Books,3819.23,726
+847,SKU-00847,Mock Product 847,Clothing,2171.89,770
+848,SKU-00848,Mock Product 848,Books,2754.39,260
+849,SKU-00849,Mock Product 849,Toys,2398.69,532
+850,SKU-00850,Mock Product 850,Books,34.16,883
+851,SKU-00851,Mock Product 851,Electronics,3486.75,325
+852,SKU-00852,Mock Product 852,Home & Garden,51.74,375
+853,SKU-00853,Mock Product 853,Books,4151.58,632
+854,SKU-00854,Mock Product 854,Clothing,4215.33,425
+855,SKU-00855,Mock Product 855,Clothing,3214.76,26
+856,SKU-00856,Mock Product 856,Clothing,4713.32,280
+857,SKU-00857,Mock Product 857,Home & Garden,1674.64,769
+858,SKU-00858,Mock Product 858,Electronics,4288.06,761
+859,SKU-00859,Mock Product 859,Sports,4439.46,394
+860,SKU-00860,Mock Product 860,Toys,421.6,238
+861,SKU-00861,Mock Product 861,Groceries,3583.46,216
+862,SKU-00862,Mock Product 862,Toys,808.75,951
+863,SKU-00863,Mock Product 863,Electronics,2025.64,150
+864,SKU-00864,Mock Product 864,Home & Garden,1153.96,505
+865,SKU-00865,Mock Product 865,Electronics,2455.86,298
+866,SKU-00866,Mock Product 866,Books,1065.77,532
+867,SKU-00867,Mock Product 867,Clothing,390.65,964
+868,SKU-00868,Mock Product 868,Clothing,991.31,946
+869,SKU-00869,Mock Product 869,Clothing,1049.71,173
+870,SKU-00870,Mock Product 870,Sports,2586.71,508
+871,SKU-00871,Mock Product 871,Groceries,4608.67,429
+872,SKU-00872,Mock Product 872,Groceries,1346.22,212
+873,SKU-00873,Mock Product 873,Home & Garden,4733.69,369
+874,SKU-00874,Mock Product 874,Toys,4765.46,780
+875,SKU-00875,Mock Product 875,Groceries,593.63,320
+876,SKU-00876,Mock Product 876,Clothing,4735.67,187
+877,SKU-00877,Mock Product 877,Groceries,4109.42,265
+878,SKU-00878,Mock Product 878,Toys,4836.66,979
+879,SKU-00879,Mock Product 879,Toys,449.66,322
+880,SKU-00880,Mock Product 880,Home & Garden,4537.46,786
+881,SKU-00881,Mock Product 881,Clothing,406.91,602
+882,SKU-00882,Mock Product 882,Sports,2446.15,846
+883,SKU-00883,Mock Product 883,Sports,777.84,552
+884,SKU-00884,Mock Product 884,Toys,2740.58,75
+885,SKU-00885,Mock Product 885,Sports,2122.71,755
+886,SKU-00886,Mock Product 886,Sports,1634.05,626
+887,SKU-00887,Mock Product 887,Home & Garden,4225.09,179
+888,SKU-00888,Mock Product 888,Toys,129.22,195
+889,SKU-00889,Mock Product 889,Home & Garden,2129.98,945
+890,SKU-00890,Mock Product 890,Home & Garden,1942.86,105
+891,SKU-00891,Mock Product 891,Electronics,2534.47,886
+892,SKU-00892,Mock Product 892,Groceries,3031.09,196
+893,SKU-00893,Mock Product 893,Toys,108.23,171
+894,SKU-00894,Mock Product 894,Home & Garden,421.43,928
+895,SKU-00895,Mock Product 895,Electronics,4280.38,538
+896,SKU-00896,Mock Product 896,Sports,123.66,386
+897,SKU-00897,Mock Product 897,Home & Garden,2363.4,949
+898,SKU-00898,Mock Product 898,Electronics,4021.03,918
+899,SKU-00899,Mock Product 899,Electronics,3039.24,950
+900,SKU-00900,Mock Product 900,Books,3184.82,620
+901,SKU-00901,Mock Product 901,Groceries,4432.43,702
+902,SKU-00902,Mock Product 902,Home & Garden,2296.46,605
+903,SKU-00903,Mock Product 903,Toys,2390.95,214
+904,SKU-00904,Mock Product 904,Home & Garden,4894.55,570
+905,SKU-00905,Mock Product 905,Home & Garden,1278.01,634
+906,SKU-00906,Mock Product 906,Toys,1703.31,444
+907,SKU-00907,Mock Product 907,Home & Garden,572.97,105
+908,SKU-00908,Mock Product 908,Clothing,1720.1,575
+909,SKU-00909,Mock Product 909,Groceries,1895.6,429
+910,SKU-00910,Mock Product 910,Clothing,1668.52,160
+911,SKU-00911,Mock Product 911,Books,3202.05,45
+912,SKU-00912,Mock Product 912,Books,3354.45,427
+913,SKU-00913,Mock Product 913,Toys,17.43,561
+914,SKU-00914,Mock Product 914,Groceries,4235.83,866
+915,SKU-00915,Mock Product 915,Home & Garden,4241.85,781
+916,SKU-00916,Mock Product 916,Home & Garden,4904.69,308
+917,SKU-00917,Mock Product 917,Electronics,3523.38,174
+918,SKU-00918,Mock Product 918,Books,709.61,503
+919,SKU-00919,Mock Product 919,Books,4303.03,50
+920,SKU-00920,Mock Product 920,Groceries,1699.61,968
+921,SKU-00921,Mock Product 921,Home & Garden,675.91,137
+922,SKU-00922,Mock Product 922,Sports,756.87,44
+923,SKU-00923,Mock Product 923,Sports,1277.43,904
+924,SKU-00924,Mock Product 924,Books,407.23,375
+925,SKU-00925,Mock Product 925,Electronics,4150.42,456
+926,SKU-00926,Mock Product 926,Electronics,3865.4,334
+927,SKU-00927,Mock Product 927,Sports,3677.85,491
+928,SKU-00928,Mock Product 928,Electronics,3423.28,440
+929,SKU-00929,Mock Product 929,Clothing,3931.07,159
+930,SKU-00930,Mock Product 930,Clothing,79.28,150
+931,SKU-00931,Mock Product 931,Groceries,4468.44,97
+932,SKU-00932,Mock Product 932,Toys,2826.61,588
+933,SKU-00933,Mock Product 933,Groceries,2246.96,397
+934,SKU-00934,Mock Product 934,Clothing,3262.71,594
+935,SKU-00935,Mock Product 935,Sports,1506.93,863
+936,SKU-00936,Mock Product 936,Sports,1664.96,20
+937,SKU-00937,Mock Product 937,Home & Garden,1937.21,278
+938,SKU-00938,Mock Product 938,Sports,3776.2,785
+939,SKU-00939,Mock Product 939,Electronics,161.24,728
+940,SKU-00940,Mock Product 940,Sports,430.57,309
+941,SKU-00941,Mock Product 941,Books,3595.58,357
+942,SKU-00942,Mock Product 942,Groceries,4334.82,466
+943,SKU-00943,Mock Product 943,Toys,3890.6,602
+944,SKU-00944,Mock Product 944,Electronics,314.92,713
+945,SKU-00945,Mock Product 945,Home & Garden,1759.69,110
+946,SKU-00946,Mock Product 946,Clothing,2790.2,913
+947,SKU-00947,Mock Product 947,Clothing,3952.8,283
+948,SKU-00948,Mock Product 948,Groceries,3588.3,488
+949,SKU-00949,Mock Product 949,Groceries,3259.59,737
+950,SKU-00950,Mock Product 950,Electronics,3575.16,303
+951,SKU-00951,Mock Product 951,Groceries,1690.56,901
+952,SKU-00952,Mock Product 952,Home & Garden,2232.98,768
+953,SKU-00953,Mock Product 953,Electronics,3227.55,49
+954,SKU-00954,Mock Product 954,Electronics,4296.56,484
+955,SKU-00955,Mock Product 955,Clothing,1814.34,645
+956,SKU-00956,Mock Product 956,Books,2814.27,999
+957,SKU-00957,Mock Product 957,Books,4532.8,866
+958,SKU-00958,Mock Product 958,Toys,786.16,660
+959,SKU-00959,Mock Product 959,Electronics,1519.27,998
+960,SKU-00960,Mock Product 960,Electronics,1695.67,550
+961,SKU-00961,Mock Product 961,Clothing,4383.36,287
+962,SKU-00962,Mock Product 962,Toys,1077.29,213
+963,SKU-00963,Mock Product 963,Toys,577.79,269
+964,SKU-00964,Mock Product 964,Clothing,2605.27,617
+965,SKU-00965,Mock Product 965,Toys,1691.03,971
+966,SKU-00966,Mock Product 966,Books,406.68,689
+967,SKU-00967,Mock Product 967,Groceries,3884.42,847
+968,SKU-00968,Mock Product 968,Books,967.88,292
+969,SKU-00969,Mock Product 969,Clothing,1814.87,37
+970,SKU-00970,Mock Product 970,Books,1564.11,139
+971,SKU-00971,Mock Product 971,Sports,3736.08,832
+972,SKU-00972,Mock Product 972,Toys,4344.95,281
+973,SKU-00973,Mock Product 973,Groceries,1490.81,122
+974,SKU-00974,Mock Product 974,Electronics,1017.69,100
+975,SKU-00975,Mock Product 975,Toys,2088.67,480
+976,SKU-00976,Mock Product 976,Sports,1872.2,500
+977,SKU-00977,Mock Product 977,Clothing,638.45,914
+978,SKU-00978,Mock Product 978,Toys,1208.96,137
+979,SKU-00979,Mock Product 979,Sports,2037.26,312
+980,SKU-00980,Mock Product 980,Sports,4389.83,150
+981,SKU-00981,Mock Product 981,Electronics,355.18,619
+982,SKU-00982,Mock Product 982,Books,294.46,470
+983,SKU-00983,Mock Product 983,Home & Garden,431.86,437
+984,SKU-00984,Mock Product 984,Groceries,3382.2,855
+985,SKU-00985,Mock Product 985,Sports,228.63,198
+986,SKU-00986,Mock Product 986,Sports,4768.2,683
+987,SKU-00987,Mock Product 987,Toys,4441.98,684
+988,SKU-00988,Mock Product 988,Groceries,4286.16,852
+989,SKU-00989,Mock Product 989,Clothing,3743.11,225
+990,SKU-00990,Mock Product 990,Groceries,3669.71,127
+991,SKU-00991,Mock Product 991,Electronics,4617.12,394
+992,SKU-00992,Mock Product 992,Electronics,3206.36,122
+993,SKU-00993,Mock Product 993,Clothing,29.01,546
+994,SKU-00994,Mock Product 994,Toys,3999.58,858
+995,SKU-00995,Mock Product 995,Groceries,3117.51,157
+996,SKU-00996,Mock Product 996,Groceries,2795.3,768
+997,SKU-00997,Mock Product 997,Toys,3718.89,519
+998,SKU-00998,Mock Product 998,Home & Garden,4107.24,689
+999,SKU-00999,Mock Product 999,Books,2945.34,663
+1000,SKU-01000,Mock Product 1000,Toys,1180.66,661
+1001,SKU-01001,Mock Product 1001,Sports,2482.85,677
+1002,SKU-01002,Mock Product 1002,Books,2376.38,511
+1003,SKU-01003,Mock Product 1003,Clothing,4496.47,638
+1004,SKU-01004,Mock Product 1004,Toys,4068.39,516
+1005,SKU-01005,Mock Product 1005,Sports,481.2,706
+1006,SKU-01006,Mock Product 1006,Home & Garden,2255.44,954
+1007,SKU-01007,Mock Product 1007,Books,1868.9,973
+1008,SKU-01008,Mock Product 1008,Groceries,3281.27,990
+1009,SKU-01009,Mock Product 1009,Groceries,4331.92,451
+1010,SKU-01010,Mock Product 1010,Home & Garden,4593.25,943
+1011,SKU-01011,Mock Product 1011,Sports,602.7,352
+1012,SKU-01012,Mock Product 1012,Home & Garden,1232.66,390
+1013,SKU-01013,Mock Product 1013,Groceries,3056.19,255
+1014,SKU-01014,Mock Product 1014,Electronics,2413.88,969
+1015,SKU-01015,Mock Product 1015,Books,2805.41,159
+1016,SKU-01016,Mock Product 1016,Sports,4654.08,451
+1017,SKU-01017,Mock Product 1017,Sports,4136.88,850
+1018,SKU-01018,Mock Product 1018,Electronics,4664.27,187
+1019,SKU-01019,Mock Product 1019,Clothing,256.59,775
+1020,SKU-01020,Mock Product 1020,Books,3188.65,897
+1021,SKU-01021,Mock Product 1021,Electronics,3684.3,689
+1022,SKU-01022,Mock Product 1022,Clothing,1040.02,311
+1023,SKU-01023,Mock Product 1023,Home & Garden,3992.43,548
+1024,SKU-01024,Mock Product 1024,Clothing,2013.75,783
+1025,SKU-01025,Mock Product 1025,Home & Garden,3996.37,390
+1026,SKU-01026,Mock Product 1026,Toys,3832.72,621
+1027,SKU-01027,Mock Product 1027,Home & Garden,1879.49,597
+1028,SKU-01028,Mock Product 1028,Groceries,1758.23,241
+1029,SKU-01029,Mock Product 1029,Home & Garden,2318.09,69
+1030,SKU-01030,Mock Product 1030,Home & Garden,291.74,477
+1031,SKU-01031,Mock Product 1031,Sports,2261.27,477
+1032,SKU-01032,Mock Product 1032,Electronics,1677.99,696
+1033,SKU-01033,Mock Product 1033,Clothing,3497.95,502
+1034,SKU-01034,Mock Product 1034,Clothing,1140.64,423
+1035,SKU-01035,Mock Product 1035,Groceries,1827.28,873
+1036,SKU-01036,Mock Product 1036,Clothing,4112.89,460
+1037,SKU-01037,Mock Product 1037,Books,1567.44,254
+1038,SKU-01038,Mock Product 1038,Electronics,3779.92,851
+1039,SKU-01039,Mock Product 1039,Books,1550.6,686
+1040,SKU-01040,Mock Product 1040,Home & Garden,852.31,983
+1041,SKU-01041,Mock Product 1041,Groceries,2917.36,704
+1042,SKU-01042,Mock Product 1042,Clothing,3030.16,20
+1043,SKU-01043,Mock Product 1043,Groceries,3990.48,180
+1044,SKU-01044,Mock Product 1044,Toys,2721.04,50
+1045,SKU-01045,Mock Product 1045,Clothing,973.47,807
+1046,SKU-01046,Mock Product 1046,Sports,1159.16,657
+1047,SKU-01047,Mock Product 1047,Sports,2250.05,194
+1048,SKU-01048,Mock Product 1048,Toys,3735.55,645
+1049,SKU-01049,Mock Product 1049,Electronics,4572.88,572
+1050,SKU-01050,Mock Product 1050,Books,105.34,929
+1051,SKU-01051,Mock Product 1051,Groceries,1535.78,509
+1052,SKU-01052,Mock Product 1052,Home & Garden,2566.48,955
+1053,SKU-01053,Mock Product 1053,Electronics,2376.88,612
+1054,SKU-01054,Mock Product 1054,Sports,966.18,61
+1055,SKU-01055,Mock Product 1055,Sports,4800.5,517
+1056,SKU-01056,Mock Product 1056,Clothing,151.5,312
+1057,SKU-01057,Mock Product 1057,Sports,4297.01,77
+1058,SKU-01058,Mock Product 1058,Sports,3366.31,970
+1059,SKU-01059,Mock Product 1059,Books,4118.26,202
+1060,SKU-01060,Mock Product 1060,Home & Garden,1164.24,786
+1061,SKU-01061,Mock Product 1061,Clothing,4408.37,788
+1062,SKU-01062,Mock Product 1062,Clothing,158.0,312
+1063,SKU-01063,Mock Product 1063,Groceries,3675.7,171
+1064,SKU-01064,Mock Product 1064,Sports,891.81,221
+1065,SKU-01065,Mock Product 1065,Electronics,1577.35,671
+1066,SKU-01066,Mock Product 1066,Toys,4382.58,984
+1067,SKU-01067,Mock Product 1067,Sports,3205.61,838
+1068,SKU-01068,Mock Product 1068,Groceries,1499.27,390
+1069,SKU-01069,Mock Product 1069,Groceries,4944.78,804
+1070,SKU-01070,Mock Product 1070,Books,1545.21,952
+1071,SKU-01071,Mock Product 1071,Clothing,2170.33,659
+1072,SKU-01072,Mock Product 1072,Electronics,4913.65,396
+1073,SKU-01073,Mock Product 1073,Groceries,1327.8,17
+1074,SKU-01074,Mock Product 1074,Home & Garden,1090.35,202
+1075,SKU-01075,Mock Product 1075,Groceries,1297.7,185
+1076,SKU-01076,Mock Product 1076,Toys,4810.42,161
+1077,SKU-01077,Mock Product 1077,Home & Garden,1521.49,215
+1078,SKU-01078,Mock Product 1078,Sports,3125.24,103
+1079,SKU-01079,Mock Product 1079,Toys,870.46,364
+1080,SKU-01080,Mock Product 1080,Books,4797.15,681
+1081,SKU-01081,Mock Product 1081,Clothing,1664.25,168
+1082,SKU-01082,Mock Product 1082,Toys,2810.46,776
+1083,SKU-01083,Mock Product 1083,Home & Garden,2480.07,92
+1084,SKU-01084,Mock Product 1084,Books,2561.27,327
+1085,SKU-01085,Mock Product 1085,Toys,3942.42,409
+1086,SKU-01086,Mock Product 1086,Home & Garden,4700.28,925
+1087,SKU-01087,Mock Product 1087,Books,4472.76,200
+1088,SKU-01088,Mock Product 1088,Groceries,1321.01,401
+1089,SKU-01089,Mock Product 1089,Sports,4868.96,549
+1090,SKU-01090,Mock Product 1090,Home & Garden,3677.27,966
+1091,SKU-01091,Mock Product 1091,Sports,2176.74,816
+1092,SKU-01092,Mock Product 1092,Books,166.85,89
+1093,SKU-01093,Mock Product 1093,Books,3916.92,772
+1094,SKU-01094,Mock Product 1094,Clothing,4482.97,995
+1095,SKU-01095,Mock Product 1095,Toys,2920.08,328
+1096,SKU-01096,Mock Product 1096,Clothing,2154.04,325
+1097,SKU-01097,Mock Product 1097,Clothing,542.09,26
+1098,SKU-01098,Mock Product 1098,Books,4970.86,997
+1099,SKU-01099,Mock Product 1099,Home & Garden,3583.64,501
+1100,SKU-01100,Mock Product 1100,Sports,3708.22,461
+1101,SKU-01101,Mock Product 1101,Clothing,4136.01,465
+1102,SKU-01102,Mock Product 1102,Home & Garden,4297.06,5
+1103,SKU-01103,Mock Product 1103,Toys,2807.19,595
+1104,SKU-01104,Mock Product 1104,Books,2160.59,754
+1105,SKU-01105,Mock Product 1105,Home & Garden,1308.96,98
+1106,SKU-01106,Mock Product 1106,Clothing,3401.16,584
+1107,SKU-01107,Mock Product 1107,Groceries,1686.83,195
+1108,SKU-01108,Mock Product 1108,Electronics,2593.33,224
+1109,SKU-01109,Mock Product 1109,Home & Garden,482.64,976
+1110,SKU-01110,Mock Product 1110,Groceries,81.81,999
+1111,SKU-01111,Mock Product 1111,Groceries,2376.45,8
+1112,SKU-01112,Mock Product 1112,Toys,3334.7,246
+1113,SKU-01113,Mock Product 1113,Sports,1117.82,425
+1114,SKU-01114,Mock Product 1114,Home & Garden,2404.95,840
+1115,SKU-01115,Mock Product 1115,Electronics,3751.63,507
+1116,SKU-01116,Mock Product 1116,Groceries,4568.6,299
+1117,SKU-01117,Mock Product 1117,Sports,4632.15,295
+1118,SKU-01118,Mock Product 1118,Toys,3713.21,373
+1119,SKU-01119,Mock Product 1119,Toys,3549.39,563
+1120,SKU-01120,Mock Product 1120,Clothing,3248.65,116
+1121,SKU-01121,Mock Product 1121,Books,421.04,650
+1122,SKU-01122,Mock Product 1122,Electronics,246.03,533
+1123,SKU-01123,Mock Product 1123,Home & Garden,577.55,17
+1124,SKU-01124,Mock Product 1124,Groceries,4882.27,637
+1125,SKU-01125,Mock Product 1125,Sports,339.79,399
+1126,SKU-01126,Mock Product 1126,Toys,444.36,824
+1127,SKU-01127,Mock Product 1127,Books,903.31,975
+1128,SKU-01128,Mock Product 1128,Books,912.22,306
+1129,SKU-01129,Mock Product 1129,Sports,4161.06,176
+1130,SKU-01130,Mock Product 1130,Clothing,2324.01,556
+1131,SKU-01131,Mock Product 1131,Toys,3182.41,332
+1132,SKU-01132,Mock Product 1132,Electronics,4201.4,371
+1133,SKU-01133,Mock Product 1133,Home & Garden,2239.95,198
+1134,SKU-01134,Mock Product 1134,Home & Garden,1592.31,113
+1135,SKU-01135,Mock Product 1135,Sports,2723.74,224
+1136,SKU-01136,Mock Product 1136,Books,1859.45,631
+1137,SKU-01137,Mock Product 1137,Toys,1821.42,824
+1138,SKU-01138,Mock Product 1138,Groceries,2305.56,321
+1139,SKU-01139,Mock Product 1139,Electronics,2565.96,891
+1140,SKU-01140,Mock Product 1140,Clothing,143.75,204
+1141,SKU-01141,Mock Product 1141,Home & Garden,282.75,405
+1142,SKU-01142,Mock Product 1142,Books,1770.45,880
+1143,SKU-01143,Mock Product 1143,Home & Garden,4442.33,691
+1144,SKU-01144,Mock Product 1144,Home & Garden,4456.58,442
+1145,SKU-01145,Mock Product 1145,Books,3804.92,421
+1146,SKU-01146,Mock Product 1146,Groceries,220.73,883
+1147,SKU-01147,Mock Product 1147,Home & Garden,3066.56,54
+1148,SKU-01148,Mock Product 1148,Clothing,180.53,482
+1149,SKU-01149,Mock Product 1149,Books,4334.54,602
+1150,SKU-01150,Mock Product 1150,Home & Garden,4720.67,271
+1151,SKU-01151,Mock Product 1151,Books,3712.56,728
+1152,SKU-01152,Mock Product 1152,Home & Garden,2407.53,611
+1153,SKU-01153,Mock Product 1153,Toys,1838.8,195
+1154,SKU-01154,Mock Product 1154,Clothing,872.87,589
+1155,SKU-01155,Mock Product 1155,Books,2298.98,206
+1156,SKU-01156,Mock Product 1156,Home & Garden,2717.56,774
+1157,SKU-01157,Mock Product 1157,Sports,3021.97,93
+1158,SKU-01158,Mock Product 1158,Books,3218.83,74
+1159,SKU-01159,Mock Product 1159,Books,3012.68,239
+1160,SKU-01160,Mock Product 1160,Books,1408.95,542
+1161,SKU-01161,Mock Product 1161,Groceries,2876.69,383
+1162,SKU-01162,Mock Product 1162,Sports,260.62,422
+1163,SKU-01163,Mock Product 1163,Toys,1790.9,720
+1164,SKU-01164,Mock Product 1164,Sports,2226.51,93
+1165,SKU-01165,Mock Product 1165,Sports,56.96,584
+1166,SKU-01166,Mock Product 1166,Toys,4725.81,112
+1167,SKU-01167,Mock Product 1167,Groceries,2893.83,437
+1168,SKU-01168,Mock Product 1168,Electronics,3342.38,807
+1169,SKU-01169,Mock Product 1169,Clothing,469.06,185
+1170,SKU-01170,Mock Product 1170,Clothing,1315.23,1000
+1171,SKU-01171,Mock Product 1171,Electronics,3620.47,711
+1172,SKU-01172,Mock Product 1172,Toys,4339.9,486
+1173,SKU-01173,Mock Product 1173,Home & Garden,3799.31,339
+1174,SKU-01174,Mock Product 1174,Home & Garden,1402.77,540
+1175,SKU-01175,Mock Product 1175,Electronics,2120.63,354
+1176,SKU-01176,Mock Product 1176,Electronics,1627.96,488
+1177,SKU-01177,Mock Product 1177,Home & Garden,3460.99,241
+1178,SKU-01178,Mock Product 1178,Electronics,3058.33,642
+1179,SKU-01179,Mock Product 1179,Books,1931.5,212
+1180,SKU-01180,Mock Product 1180,Electronics,3403.33,717
+1181,SKU-01181,Mock Product 1181,Clothing,4895.42,874
+1182,SKU-01182,Mock Product 1182,Electronics,3287.43,28
+1183,SKU-01183,Mock Product 1183,Clothing,348.93,526
+1184,SKU-01184,Mock Product 1184,Sports,2884.13,153
+1185,SKU-01185,Mock Product 1185,Groceries,4048.07,530
+1186,SKU-01186,Mock Product 1186,Sports,4015.15,137
+1187,SKU-01187,Mock Product 1187,Clothing,3486.78,230
+1188,SKU-01188,Mock Product 1188,Groceries,4483.02,875
+1189,SKU-01189,Mock Product 1189,Sports,1492.95,478
+1190,SKU-01190,Mock Product 1190,Toys,2212.05,255
+1191,SKU-01191,Mock Product 1191,Groceries,2506.31,845
+1192,SKU-01192,Mock Product 1192,Clothing,4478.16,584
+1193,SKU-01193,Mock Product 1193,Toys,2049.44,303
+1194,SKU-01194,Mock Product 1194,Toys,472.3,403
+1195,SKU-01195,Mock Product 1195,Toys,69.7,505
+1196,SKU-01196,Mock Product 1196,Groceries,571.04,259
+1197,SKU-01197,Mock Product 1197,Home & Garden,3064.29,193
+1198,SKU-01198,Mock Product 1198,Sports,4266.62,931
+1199,SKU-01199,Mock Product 1199,Home & Garden,2527.07,973
+1200,SKU-01200,Mock Product 1200,Electronics,3109.39,863
+1201,SKU-01201,Mock Product 1201,Groceries,3873.97,106
+1202,SKU-01202,Mock Product 1202,Sports,3015.22,11
+1203,SKU-01203,Mock Product 1203,Electronics,4402.27,408
+1204,SKU-01204,Mock Product 1204,Home & Garden,4942.73,495
+1205,SKU-01205,Mock Product 1205,Sports,4795.08,154
+1206,SKU-01206,Mock Product 1206,Electronics,1052.49,984
+1207,SKU-01207,Mock Product 1207,Groceries,3211.83,205
+1208,SKU-01208,Mock Product 1208,Sports,2828.12,315
+1209,SKU-01209,Mock Product 1209,Home & Garden,1827.1,613
+1210,SKU-01210,Mock Product 1210,Toys,3696.95,471
+1211,SKU-01211,Mock Product 1211,Toys,1630.48,944
+1212,SKU-01212,Mock Product 1212,Toys,4527.15,946
+1213,SKU-01213,Mock Product 1213,Electronics,2208.1,583
+1214,SKU-01214,Mock Product 1214,Books,410.19,397
+1215,SKU-01215,Mock Product 1215,Sports,627.48,537
+1216,SKU-01216,Mock Product 1216,Home & Garden,3884.97,797
+1217,SKU-01217,Mock Product 1217,Clothing,778.06,590
+1218,SKU-01218,Mock Product 1218,Clothing,1559.38,181
+1219,SKU-01219,Mock Product 1219,Groceries,2455.23,877
+1220,SKU-01220,Mock Product 1220,Electronics,558.75,734
+1221,SKU-01221,Mock Product 1221,Clothing,237.2,197
+1222,SKU-01222,Mock Product 1222,Sports,43.71,743
+1223,SKU-01223,Mock Product 1223,Clothing,2330.58,229
+1224,SKU-01224,Mock Product 1224,Toys,2625.11,373
+1225,SKU-01225,Mock Product 1225,Sports,1107.05,282
+1226,SKU-01226,Mock Product 1226,Groceries,3502.2,494
+1227,SKU-01227,Mock Product 1227,Home & Garden,2840.98,85
+1228,SKU-01228,Mock Product 1228,Toys,1898.35,678
+1229,SKU-01229,Mock Product 1229,Electronics,4239.84,377
+1230,SKU-01230,Mock Product 1230,Electronics,2848.87,269
+1231,SKU-01231,Mock Product 1231,Electronics,679.89,845
+1232,SKU-01232,Mock Product 1232,Toys,4553.57,371
+1233,SKU-01233,Mock Product 1233,Toys,3785.82,596
+1234,SKU-01234,Mock Product 1234,Electronics,552.76,228
+1235,SKU-01235,Mock Product 1235,Home & Garden,1041.67,312
+1236,SKU-01236,Mock Product 1236,Electronics,4026.43,293
+1237,SKU-01237,Mock Product 1237,Toys,3949.17,776
+1238,SKU-01238,Mock Product 1238,Books,4582.12,592
+1239,SKU-01239,Mock Product 1239,Electronics,3172.16,725
+1240,SKU-01240,Mock Product 1240,Home & Garden,4001.24,379
+1241,SKU-01241,Mock Product 1241,Toys,2878.24,567
+1242,SKU-01242,Mock Product 1242,Toys,1507.11,711
+1243,SKU-01243,Mock Product 1243,Clothing,3945.21,92
+1244,SKU-01244,Mock Product 1244,Home & Garden,2169.15,501
+1245,SKU-01245,Mock Product 1245,Sports,85.12,916
+1246,SKU-01246,Mock Product 1246,Books,456.86,691
+1247,SKU-01247,Mock Product 1247,Clothing,3146.26,62
+1248,SKU-01248,Mock Product 1248,Books,4345.12,996
+1249,SKU-01249,Mock Product 1249,Home & Garden,4030.19,280
+1250,SKU-01250,Mock Product 1250,Toys,740.64,949
+1251,SKU-01251,Mock Product 1251,Books,898.05,947
+1252,SKU-01252,Mock Product 1252,Groceries,204.93,357
+1253,SKU-01253,Mock Product 1253,Home & Garden,4822.44,645
+1254,SKU-01254,Mock Product 1254,Groceries,4319.49,37
+1255,SKU-01255,Mock Product 1255,Sports,3780.37,119
+1256,SKU-01256,Mock Product 1256,Home & Garden,3632.6,754
+1257,SKU-01257,Mock Product 1257,Electronics,3065.38,424
+1258,SKU-01258,Mock Product 1258,Home & Garden,3972.09,0
+1259,SKU-01259,Mock Product 1259,Groceries,338.22,730
+1260,SKU-01260,Mock Product 1260,Books,3252.12,80
+1261,SKU-01261,Mock Product 1261,Home & Garden,2089.43,47
+1262,SKU-01262,Mock Product 1262,Groceries,3201.63,994
+1263,SKU-01263,Mock Product 1263,Books,2295.53,281
+1264,SKU-01264,Mock Product 1264,Toys,2891.63,375
+1265,SKU-01265,Mock Product 1265,Books,2890.04,451
+1266,SKU-01266,Mock Product 1266,Home & Garden,501.14,84
+1267,SKU-01267,Mock Product 1267,Books,4516.38,187
+1268,SKU-01268,Mock Product 1268,Groceries,1590.21,80
+1269,SKU-01269,Mock Product 1269,Groceries,559.11,715
+1270,SKU-01270,Mock Product 1270,Books,4109.19,989
+1271,SKU-01271,Mock Product 1271,Electronics,1820.81,89
+1272,SKU-01272,Mock Product 1272,Books,855.09,93
+1273,SKU-01273,Mock Product 1273,Toys,2490.93,731
+1274,SKU-01274,Mock Product 1274,Books,3944.58,122
+1275,SKU-01275,Mock Product 1275,Clothing,1634.7,48
+1276,SKU-01276,Mock Product 1276,Books,4775.49,249
+1277,SKU-01277,Mock Product 1277,Groceries,3223.63,55
+1278,SKU-01278,Mock Product 1278,Groceries,4786.26,818
+1279,SKU-01279,Mock Product 1279,Groceries,2423.46,480
+1280,SKU-01280,Mock Product 1280,Electronics,2712.92,326
+1281,SKU-01281,Mock Product 1281,Toys,4697.79,557
+1282,SKU-01282,Mock Product 1282,Electronics,4678.25,900
+1283,SKU-01283,Mock Product 1283,Home & Garden,1258.75,976
+1284,SKU-01284,Mock Product 1284,Sports,1729.22,566
+1285,SKU-01285,Mock Product 1285,Home & Garden,1726.78,144
+1286,SKU-01286,Mock Product 1286,Sports,791.64,450
+1287,SKU-01287,Mock Product 1287,Electronics,3932.11,199
+1288,SKU-01288,Mock Product 1288,Home & Garden,3299.26,979
+1289,SKU-01289,Mock Product 1289,Clothing,823.25,600
+1290,SKU-01290,Mock Product 1290,Books,121.76,320
+1291,SKU-01291,Mock Product 1291,Sports,1661.86,36
+1292,SKU-01292,Mock Product 1292,Home & Garden,4546.08,314
+1293,SKU-01293,Mock Product 1293,Clothing,1304.75,562
+1294,SKU-01294,Mock Product 1294,Home & Garden,3397.16,136
+1295,SKU-01295,Mock Product 1295,Toys,4824.7,81
+1296,SKU-01296,Mock Product 1296,Electronics,292.88,352
+1297,SKU-01297,Mock Product 1297,Toys,1916.18,349
+1298,SKU-01298,Mock Product 1298,Electronics,1317.79,474
+1299,SKU-01299,Mock Product 1299,Groceries,4280.63,556
+1300,SKU-01300,Mock Product 1300,Clothing,2792.13,345
+1301,SKU-01301,Mock Product 1301,Books,2911.31,257
+1302,SKU-01302,Mock Product 1302,Books,293.22,571
+1303,SKU-01303,Mock Product 1303,Sports,68.4,116
+1304,SKU-01304,Mock Product 1304,Home & Garden,2267.28,716
+1305,SKU-01305,Mock Product 1305,Home & Garden,1337.98,825
+1306,SKU-01306,Mock Product 1306,Toys,3280.58,466
+1307,SKU-01307,Mock Product 1307,Groceries,2522.81,791
+1308,SKU-01308,Mock Product 1308,Books,3851.02,224
+1309,SKU-01309,Mock Product 1309,Clothing,4419.04,121
+1310,SKU-01310,Mock Product 1310,Home & Garden,4958.65,611
+1311,SKU-01311,Mock Product 1311,Clothing,4424.0,417
+1312,SKU-01312,Mock Product 1312,Groceries,3510.23,560
+1313,SKU-01313,Mock Product 1313,Clothing,4023.94,816
+1314,SKU-01314,Mock Product 1314,Sports,2783.43,201
+1315,SKU-01315,Mock Product 1315,Toys,3808.34,451
+1316,SKU-01316,Mock Product 1316,Sports,1416.17,690
+1317,SKU-01317,Mock Product 1317,Clothing,4464.53,24
+1318,SKU-01318,Mock Product 1318,Books,4006.54,773
+1319,SKU-01319,Mock Product 1319,Clothing,498.27,506
+1320,SKU-01320,Mock Product 1320,Toys,1133.36,610
+1321,SKU-01321,Mock Product 1321,Home & Garden,1145.46,982
+1322,SKU-01322,Mock Product 1322,Groceries,2046.82,679
+1323,SKU-01323,Mock Product 1323,Groceries,961.89,482
+1324,SKU-01324,Mock Product 1324,Sports,1491.93,529
+1325,SKU-01325,Mock Product 1325,Clothing,150.07,829
+1326,SKU-01326,Mock Product 1326,Groceries,821.14,372
+1327,SKU-01327,Mock Product 1327,Home & Garden,975.37,957
+1328,SKU-01328,Mock Product 1328,Home & Garden,1629.06,235
+1329,SKU-01329,Mock Product 1329,Sports,1706.26,651
+1330,SKU-01330,Mock Product 1330,Groceries,4560.63,320
+1331,SKU-01331,Mock Product 1331,Clothing,772.13,572
+1332,SKU-01332,Mock Product 1332,Groceries,2934.88,216
+1333,SKU-01333,Mock Product 1333,Toys,573.04,603
+1334,SKU-01334,Mock Product 1334,Toys,3114.64,415
+1335,SKU-01335,Mock Product 1335,Sports,1474.54,166
+1336,SKU-01336,Mock Product 1336,Books,3168.5,621
+1337,SKU-01337,Mock Product 1337,Books,1760.67,577
+1338,SKU-01338,Mock Product 1338,Groceries,2432.88,195
+1339,SKU-01339,Mock Product 1339,Clothing,1539.51,346
+1340,SKU-01340,Mock Product 1340,Sports,1567.91,566
+1341,SKU-01341,Mock Product 1341,Clothing,2068.83,311
+1342,SKU-01342,Mock Product 1342,Groceries,2958.39,513
+1343,SKU-01343,Mock Product 1343,Clothing,2668.19,373
+1344,SKU-01344,Mock Product 1344,Books,1792.55,29
+1345,SKU-01345,Mock Product 1345,Electronics,3394.63,447
+1346,SKU-01346,Mock Product 1346,Home & Garden,1135.36,754
+1347,SKU-01347,Mock Product 1347,Electronics,4310.65,560
+1348,SKU-01348,Mock Product 1348,Electronics,219.33,380
+1349,SKU-01349,Mock Product 1349,Electronics,491.69,380
+1350,SKU-01350,Mock Product 1350,Clothing,3281.89,697
+1351,SKU-01351,Mock Product 1351,Toys,2492.74,999
+1352,SKU-01352,Mock Product 1352,Toys,409.65,466
+1353,SKU-01353,Mock Product 1353,Electronics,2284.8,66
+1354,SKU-01354,Mock Product 1354,Books,2081.24,566
+1355,SKU-01355,Mock Product 1355,Groceries,4828.7,655
+1356,SKU-01356,Mock Product 1356,Books,3354.26,955
+1357,SKU-01357,Mock Product 1357,Groceries,46.32,277
+1358,SKU-01358,Mock Product 1358,Electronics,4529.67,359
+1359,SKU-01359,Mock Product 1359,Toys,3802.52,264
+1360,SKU-01360,Mock Product 1360,Clothing,2996.1,512
+1361,SKU-01361,Mock Product 1361,Electronics,4344.01,122
+1362,SKU-01362,Mock Product 1362,Toys,3165.2,188
+1363,SKU-01363,Mock Product 1363,Toys,1157.42,773
+1364,SKU-01364,Mock Product 1364,Clothing,1963.35,942
+1365,SKU-01365,Mock Product 1365,Toys,782.66,912
+1366,SKU-01366,Mock Product 1366,Books,3554.33,414
+1367,SKU-01367,Mock Product 1367,Electronics,308.74,182
+1368,SKU-01368,Mock Product 1368,Electronics,2948.1,962
+1369,SKU-01369,Mock Product 1369,Groceries,1107.42,28
+1370,SKU-01370,Mock Product 1370,Toys,1021.39,117
+1371,SKU-01371,Mock Product 1371,Electronics,4005.07,353
+1372,SKU-01372,Mock Product 1372,Sports,1110.49,494
+1373,SKU-01373,Mock Product 1373,Sports,3734.91,848
+1374,SKU-01374,Mock Product 1374,Sports,4245.98,46
+1375,SKU-01375,Mock Product 1375,Toys,3905.71,745
+1376,SKU-01376,Mock Product 1376,Sports,1939.31,820
+1377,SKU-01377,Mock Product 1377,Groceries,2370.92,548
+1378,SKU-01378,Mock Product 1378,Home & Garden,2628.29,157
+1379,SKU-01379,Mock Product 1379,Electronics,1823.96,778
+1380,SKU-01380,Mock Product 1380,Toys,3721.35,17
+1381,SKU-01381,Mock Product 1381,Electronics,1933.35,984
+1382,SKU-01382,Mock Product 1382,Clothing,380.75,846
+1383,SKU-01383,Mock Product 1383,Toys,76.06,285
+1384,SKU-01384,Mock Product 1384,Groceries,4380.18,448
+1385,SKU-01385,Mock Product 1385,Books,3672.34,320
+1386,SKU-01386,Mock Product 1386,Clothing,3278.38,719
+1387,SKU-01387,Mock Product 1387,Toys,3367.36,968
+1388,SKU-01388,Mock Product 1388,Home & Garden,1427.84,157
+1389,SKU-01389,Mock Product 1389,Clothing,1904.68,881
+1390,SKU-01390,Mock Product 1390,Electronics,2132.37,699
+1391,SKU-01391,Mock Product 1391,Home & Garden,2097.4,12
+1392,SKU-01392,Mock Product 1392,Toys,4601.48,948
+1393,SKU-01393,Mock Product 1393,Books,484.39,84
+1394,SKU-01394,Mock Product 1394,Sports,1472.74,888
+1395,SKU-01395,Mock Product 1395,Home & Garden,2500.5,9
+1396,SKU-01396,Mock Product 1396,Sports,2643.95,965
+1397,SKU-01397,Mock Product 1397,Sports,1925.16,57
+1398,SKU-01398,Mock Product 1398,Home & Garden,1360.3,918
+1399,SKU-01399,Mock Product 1399,Sports,2617.78,911
+1400,SKU-01400,Mock Product 1400,Clothing,1999.62,838
+1401,SKU-01401,Mock Product 1401,Sports,3777.73,481
+1402,SKU-01402,Mock Product 1402,Sports,1111.29,180
+1403,SKU-01403,Mock Product 1403,Electronics,3226.0,732
+1404,SKU-01404,Mock Product 1404,Clothing,1949.35,190
+1405,SKU-01405,Mock Product 1405,Electronics,894.37,332
+1406,SKU-01406,Mock Product 1406,Toys,449.18,565
+1407,SKU-01407,Mock Product 1407,Sports,3721.74,900
+1408,SKU-01408,Mock Product 1408,Sports,1314.08,223
+1409,SKU-01409,Mock Product 1409,Electronics,943.24,637
+1410,SKU-01410,Mock Product 1410,Sports,3888.52,532
+1411,SKU-01411,Mock Product 1411,Groceries,3246.16,40
+1412,SKU-01412,Mock Product 1412,Toys,2409.48,240
+1413,SKU-01413,Mock Product 1413,Toys,4473.5,536
+1414,SKU-01414,Mock Product 1414,Toys,604.17,556
+1415,SKU-01415,Mock Product 1415,Groceries,3433.14,815
+1416,SKU-01416,Mock Product 1416,Clothing,3592.41,139
+1417,SKU-01417,Mock Product 1417,Groceries,3166.92,600
+1418,SKU-01418,Mock Product 1418,Home & Garden,203.29,105
+1419,SKU-01419,Mock Product 1419,Home & Garden,2348.86,705
+1420,SKU-01420,Mock Product 1420,Sports,3913.88,142
+1421,SKU-01421,Mock Product 1421,Clothing,4859.69,46
+1422,SKU-01422,Mock Product 1422,Sports,1430.68,791
+1423,SKU-01423,Mock Product 1423,Electronics,1547.58,19
+1424,SKU-01424,Mock Product 1424,Groceries,3150.8,967
+1425,SKU-01425,Mock Product 1425,Books,2840.04,402
+1426,SKU-01426,Mock Product 1426,Sports,2840.77,495
+1427,SKU-01427,Mock Product 1427,Toys,2180.98,526
+1428,SKU-01428,Mock Product 1428,Toys,1023.73,24
+1429,SKU-01429,Mock Product 1429,Clothing,4518.66,1000
+1430,SKU-01430,Mock Product 1430,Books,1925.3,460
+1431,SKU-01431,Mock Product 1431,Clothing,2705.27,671
+1432,SKU-01432,Mock Product 1432,Clothing,4624.51,948
+1433,SKU-01433,Mock Product 1433,Home & Garden,2525.06,885
+1434,SKU-01434,Mock Product 1434,Home & Garden,1186.26,399
+1435,SKU-01435,Mock Product 1435,Electronics,3765.92,91
+1436,SKU-01436,Mock Product 1436,Clothing,4303.05,563
+1437,SKU-01437,Mock Product 1437,Home & Garden,3751.2,287
+1438,SKU-01438,Mock Product 1438,Electronics,3162.42,974
+1439,SKU-01439,Mock Product 1439,Books,3836.78,167
+1440,SKU-01440,Mock Product 1440,Clothing,3589.68,890
+1441,SKU-01441,Mock Product 1441,Toys,692.42,801
+1442,SKU-01442,Mock Product 1442,Electronics,2295.41,165
+1443,SKU-01443,Mock Product 1443,Clothing,1395.23,45
+1444,SKU-01444,Mock Product 1444,Toys,4381.89,327
+1445,SKU-01445,Mock Product 1445,Books,1133.09,221
+1446,SKU-01446,Mock Product 1446,Clothing,3668.66,161
+1447,SKU-01447,Mock Product 1447,Books,4186.93,785
+1448,SKU-01448,Mock Product 1448,Clothing,3950.08,279
+1449,SKU-01449,Mock Product 1449,Books,1200.25,484
+1450,SKU-01450,Mock Product 1450,Home & Garden,4048.3,167
+1451,SKU-01451,Mock Product 1451,Groceries,95.51,356
+1452,SKU-01452,Mock Product 1452,Electronics,764.05,862
+1453,SKU-01453,Mock Product 1453,Clothing,1778.93,753
+1454,SKU-01454,Mock Product 1454,Books,869.09,33
+1455,SKU-01455,Mock Product 1455,Books,3979.1,693
+1456,SKU-01456,Mock Product 1456,Clothing,3421.86,952
+1457,SKU-01457,Mock Product 1457,Toys,1223.09,622
+1458,SKU-01458,Mock Product 1458,Sports,1609.23,495
+1459,SKU-01459,Mock Product 1459,Electronics,2168.65,702
+1460,SKU-01460,Mock Product 1460,Toys,3394.34,813
+1461,SKU-01461,Mock Product 1461,Toys,3052.71,159
+1462,SKU-01462,Mock Product 1462,Toys,3236.96,257
+1463,SKU-01463,Mock Product 1463,Books,4311.37,745
+1464,SKU-01464,Mock Product 1464,Clothing,3568.86,151
+1465,SKU-01465,Mock Product 1465,Electronics,2424.32,511
+1466,SKU-01466,Mock Product 1466,Toys,2812.37,619
+1467,SKU-01467,Mock Product 1467,Electronics,3014.82,422
+1468,SKU-01468,Mock Product 1468,Home & Garden,2274.06,920
+1469,SKU-01469,Mock Product 1469,Books,830.75,733
+1470,SKU-01470,Mock Product 1470,Sports,2622.08,428
+1471,SKU-01471,Mock Product 1471,Sports,1253.11,856
+1472,SKU-01472,Mock Product 1472,Sports,396.71,252
+1473,SKU-01473,Mock Product 1473,Books,850.07,49
+1474,SKU-01474,Mock Product 1474,Toys,567.6,55
+1475,SKU-01475,Mock Product 1475,Sports,4831.22,728
+1476,SKU-01476,Mock Product 1476,Toys,2709.79,703
+1477,SKU-01477,Mock Product 1477,Groceries,2470.35,663
+1478,SKU-01478,Mock Product 1478,Electronics,3702.99,299
+1479,SKU-01479,Mock Product 1479,Toys,772.64,989
+1480,SKU-01480,Mock Product 1480,Electronics,705.06,404
+1481,SKU-01481,Mock Product 1481,Sports,1236.14,864
+1482,SKU-01482,Mock Product 1482,Home & Garden,1374.53,860
+1483,SKU-01483,Mock Product 1483,Clothing,3237.23,427
+1484,SKU-01484,Mock Product 1484,Sports,749.5,815
+1485,SKU-01485,Mock Product 1485,Electronics,734.85,710
+1486,SKU-01486,Mock Product 1486,Books,2349.15,126
+1487,SKU-01487,Mock Product 1487,Home & Garden,2148.84,124
+1488,SKU-01488,Mock Product 1488,Sports,1662.93,381
+1489,SKU-01489,Mock Product 1489,Electronics,1547.24,793
+1490,SKU-01490,Mock Product 1490,Sports,4644.16,753
+1491,SKU-01491,Mock Product 1491,Home & Garden,2694.2,101
+1492,SKU-01492,Mock Product 1492,Electronics,1582.22,330
+1493,SKU-01493,Mock Product 1493,Clothing,3781.76,887
+1494,SKU-01494,Mock Product 1494,Groceries,195.63,470
+1495,SKU-01495,Mock Product 1495,Groceries,2805.26,362
+1496,SKU-01496,Mock Product 1496,Groceries,2564.23,760
+1497,SKU-01497,Mock Product 1497,Clothing,271.31,895
+1498,SKU-01498,Mock Product 1498,Toys,2947.49,850
+1499,SKU-01499,Mock Product 1499,Books,4052.38,513
+1500,SKU-01500,Mock Product 1500,Sports,4223.34,336
+1501,SKU-01501,Mock Product 1501,Books,571.27,642
+1502,SKU-01502,Mock Product 1502,Sports,1662.88,555
+1503,SKU-01503,Mock Product 1503,Home & Garden,4559.11,765
+1504,SKU-01504,Mock Product 1504,Sports,4467.93,988
+1505,SKU-01505,Mock Product 1505,Groceries,4216.31,314
+1506,SKU-01506,Mock Product 1506,Groceries,681.79,826
+1507,SKU-01507,Mock Product 1507,Home & Garden,526.19,347
+1508,SKU-01508,Mock Product 1508,Groceries,3515.38,553
+1509,SKU-01509,Mock Product 1509,Toys,1398.09,308
+1510,SKU-01510,Mock Product 1510,Books,1417.49,71
+1511,SKU-01511,Mock Product 1511,Groceries,3701.57,818
+1512,SKU-01512,Mock Product 1512,Electronics,3381.05,509
+1513,SKU-01513,Mock Product 1513,Books,4133.12,922
+1514,SKU-01514,Mock Product 1514,Books,2850.95,396
+1515,SKU-01515,Mock Product 1515,Electronics,3802.4,740
+1516,SKU-01516,Mock Product 1516,Toys,4754.42,748
+1517,SKU-01517,Mock Product 1517,Sports,1255.49,23
+1518,SKU-01518,Mock Product 1518,Home & Garden,1171.72,927
+1519,SKU-01519,Mock Product 1519,Home & Garden,4276.0,187
+1520,SKU-01520,Mock Product 1520,Books,3436.75,785
+1521,SKU-01521,Mock Product 1521,Books,4472.71,930
+1522,SKU-01522,Mock Product 1522,Groceries,1931.12,139
+1523,SKU-01523,Mock Product 1523,Toys,118.31,279
+1524,SKU-01524,Mock Product 1524,Electronics,4529.6,978
+1525,SKU-01525,Mock Product 1525,Toys,3157.81,107
+1526,SKU-01526,Mock Product 1526,Toys,2734.98,871
+1527,SKU-01527,Mock Product 1527,Sports,1719.79,124
+1528,SKU-01528,Mock Product 1528,Clothing,69.45,504
+1529,SKU-01529,Mock Product 1529,Sports,1524.47,120
+1530,SKU-01530,Mock Product 1530,Clothing,1438.4,645
+1531,SKU-01531,Mock Product 1531,Books,4829.37,945
+1532,SKU-01532,Mock Product 1532,Clothing,4771.9,96
+1533,SKU-01533,Mock Product 1533,Electronics,2308.28,458
+1534,SKU-01534,Mock Product 1534,Toys,1497.27,683
+1535,SKU-01535,Mock Product 1535,Groceries,2002.12,602
+1536,SKU-01536,Mock Product 1536,Electronics,376.58,853
+1537,SKU-01537,Mock Product 1537,Toys,3391.26,547
+1538,SKU-01538,Mock Product 1538,Toys,4609.56,280
+1539,SKU-01539,Mock Product 1539,Electronics,87.6,387
+1540,SKU-01540,Mock Product 1540,Groceries,3898.12,399
+1541,SKU-01541,Mock Product 1541,Groceries,482.43,879
+1542,SKU-01542,Mock Product 1542,Groceries,142.87,174
+1543,SKU-01543,Mock Product 1543,Toys,1601.34,462
+1544,SKU-01544,Mock Product 1544,Toys,2753.26,778
+1545,SKU-01545,Mock Product 1545,Books,2804.73,981
+1546,SKU-01546,Mock Product 1546,Electronics,3706.04,136
+1547,SKU-01547,Mock Product 1547,Sports,3071.68,275
+1548,SKU-01548,Mock Product 1548,Books,1570.25,907
+1549,SKU-01549,Mock Product 1549,Electronics,3763.06,528
+1550,SKU-01550,Mock Product 1550,Clothing,3369.31,587
+1551,SKU-01551,Mock Product 1551,Electronics,2299.4,642
+1552,SKU-01552,Mock Product 1552,Toys,2043.9,74
+1553,SKU-01553,Mock Product 1553,Groceries,3046.46,610
+1554,SKU-01554,Mock Product 1554,Clothing,4999.52,75
+1555,SKU-01555,Mock Product 1555,Toys,3690.58,145
+1556,SKU-01556,Mock Product 1556,Groceries,1976.36,988
+1557,SKU-01557,Mock Product 1557,Home & Garden,2010.11,485
+1558,SKU-01558,Mock Product 1558,Books,2317.69,655
+1559,SKU-01559,Mock Product 1559,Clothing,1497.62,293
+1560,SKU-01560,Mock Product 1560,Sports,1396.92,387
+1561,SKU-01561,Mock Product 1561,Electronics,4175.17,175
+1562,SKU-01562,Mock Product 1562,Clothing,4597.92,39
+1563,SKU-01563,Mock Product 1563,Sports,3043.83,683
+1564,SKU-01564,Mock Product 1564,Clothing,4395.5,597
+1565,SKU-01565,Mock Product 1565,Sports,3779.56,957
+1566,SKU-01566,Mock Product 1566,Home & Garden,3082.29,202
+1567,SKU-01567,Mock Product 1567,Clothing,2535.92,728
+1568,SKU-01568,Mock Product 1568,Books,1945.21,693
+1569,SKU-01569,Mock Product 1569,Clothing,961.57,267
+1570,SKU-01570,Mock Product 1570,Toys,4336.23,411
+1571,SKU-01571,Mock Product 1571,Groceries,3828.97,204
+1572,SKU-01572,Mock Product 1572,Home & Garden,1768.61,281
+1573,SKU-01573,Mock Product 1573,Toys,2737.95,399
+1574,SKU-01574,Mock Product 1574,Home & Garden,2422.76,160
+1575,SKU-01575,Mock Product 1575,Groceries,4759.72,592
+1576,SKU-01576,Mock Product 1576,Books,3852.85,958
+1577,SKU-01577,Mock Product 1577,Sports,661.29,391
+1578,SKU-01578,Mock Product 1578,Groceries,2695.81,67
+1579,SKU-01579,Mock Product 1579,Clothing,1271.12,624
+1580,SKU-01580,Mock Product 1580,Sports,4757.61,231
+1581,SKU-01581,Mock Product 1581,Books,2985.72,927
+1582,SKU-01582,Mock Product 1582,Sports,1472.47,132
+1583,SKU-01583,Mock Product 1583,Clothing,3561.74,452
+1584,SKU-01584,Mock Product 1584,Groceries,4258.11,615
+1585,SKU-01585,Mock Product 1585,Home & Garden,4809.42,228
+1586,SKU-01586,Mock Product 1586,Groceries,3954.89,38
+1587,SKU-01587,Mock Product 1587,Toys,2450.05,342
+1588,SKU-01588,Mock Product 1588,Sports,344.25,496
+1589,SKU-01589,Mock Product 1589,Groceries,457.62,170
+1590,SKU-01590,Mock Product 1590,Books,3842.98,624
+1591,SKU-01591,Mock Product 1591,Groceries,2817.51,54
+1592,SKU-01592,Mock Product 1592,Clothing,1277.58,541
+1593,SKU-01593,Mock Product 1593,Clothing,4053.1,831
+1594,SKU-01594,Mock Product 1594,Toys,2659.84,959
+1595,SKU-01595,Mock Product 1595,Groceries,1776.86,46
+1596,SKU-01596,Mock Product 1596,Clothing,3772.62,572
+1597,SKU-01597,Mock Product 1597,Books,4997.07,972
+1598,SKU-01598,Mock Product 1598,Clothing,2779.45,928
+1599,SKU-01599,Mock Product 1599,Sports,845.13,127
+1600,SKU-01600,Mock Product 1600,Clothing,4071.4,409
+1601,SKU-01601,Mock Product 1601,Electronics,1249.57,595
+1602,SKU-01602,Mock Product 1602,Sports,2669.18,226
+1603,SKU-01603,Mock Product 1603,Sports,774.75,918
+1604,SKU-01604,Mock Product 1604,Home & Garden,622.93,0
+1605,SKU-01605,Mock Product 1605,Electronics,4362.29,640
+1606,SKU-01606,Mock Product 1606,Groceries,2436.74,240
+1607,SKU-01607,Mock Product 1607,Toys,2615.57,141
+1608,SKU-01608,Mock Product 1608,Groceries,2480.7,555
+1609,SKU-01609,Mock Product 1609,Books,3710.26,834
+1610,SKU-01610,Mock Product 1610,Toys,386.02,259
+1611,SKU-01611,Mock Product 1611,Home & Garden,3365.34,8
+1612,SKU-01612,Mock Product 1612,Books,1478.67,958
+1613,SKU-01613,Mock Product 1613,Groceries,2651.93,199
+1614,SKU-01614,Mock Product 1614,Sports,4628.97,631
+1615,SKU-01615,Mock Product 1615,Clothing,2853.97,814
+1616,SKU-01616,Mock Product 1616,Books,3567.75,954
+1617,SKU-01617,Mock Product 1617,Groceries,1107.75,656
+1618,SKU-01618,Mock Product 1618,Books,4119.68,409
+1619,SKU-01619,Mock Product 1619,Groceries,3983.49,962
+1620,SKU-01620,Mock Product 1620,Electronics,3927.91,456
+1621,SKU-01621,Mock Product 1621,Books,459.84,200
+1622,SKU-01622,Mock Product 1622,Groceries,1435.95,565
+1623,SKU-01623,Mock Product 1623,Toys,4345.73,478
+1624,SKU-01624,Mock Product 1624,Home & Garden,1510.22,893
+1625,SKU-01625,Mock Product 1625,Home & Garden,2389.16,447
+1626,SKU-01626,Mock Product 1626,Electronics,3411.47,403
+1627,SKU-01627,Mock Product 1627,Books,4970.08,310
+1628,SKU-01628,Mock Product 1628,Home & Garden,4748.71,21
+1629,SKU-01629,Mock Product 1629,Sports,844.45,971
+1630,SKU-01630,Mock Product 1630,Home & Garden,1099.71,523
+1631,SKU-01631,Mock Product 1631,Clothing,4490.57,187
+1632,SKU-01632,Mock Product 1632,Groceries,1855.05,866
+1633,SKU-01633,Mock Product 1633,Books,4642.34,590
+1634,SKU-01634,Mock Product 1634,Toys,4323.52,79
+1635,SKU-01635,Mock Product 1635,Books,4839.97,996
+1636,SKU-01636,Mock Product 1636,Home & Garden,4425.37,139
+1637,SKU-01637,Mock Product 1637,Groceries,910.75,487
+1638,SKU-01638,Mock Product 1638,Groceries,1905.98,222
+1639,SKU-01639,Mock Product 1639,Clothing,280.07,892
+1640,SKU-01640,Mock Product 1640,Toys,3228.09,941
+1641,SKU-01641,Mock Product 1641,Electronics,1853.09,890
+1642,SKU-01642,Mock Product 1642,Clothing,2231.42,87
+1643,SKU-01643,Mock Product 1643,Home & Garden,2610.69,26
+1644,SKU-01644,Mock Product 1644,Electronics,3769.14,768
+1645,SKU-01645,Mock Product 1645,Clothing,1189.64,650
+1646,SKU-01646,Mock Product 1646,Home & Garden,4531.46,647
+1647,SKU-01647,Mock Product 1647,Clothing,4578.02,890
+1648,SKU-01648,Mock Product 1648,Home & Garden,4000.16,219
+1649,SKU-01649,Mock Product 1649,Toys,3713.09,741
+1650,SKU-01650,Mock Product 1650,Home & Garden,2182.84,498
+1651,SKU-01651,Mock Product 1651,Groceries,1559.53,409
+1652,SKU-01652,Mock Product 1652,Clothing,342.56,929
+1653,SKU-01653,Mock Product 1653,Groceries,2729.95,339
+1654,SKU-01654,Mock Product 1654,Toys,1610.37,558
+1655,SKU-01655,Mock Product 1655,Clothing,2999.53,893
+1656,SKU-01656,Mock Product 1656,Books,1699.76,507
+1657,SKU-01657,Mock Product 1657,Sports,3149.48,473
+1658,SKU-01658,Mock Product 1658,Electronics,1105.04,546
+1659,SKU-01659,Mock Product 1659,Electronics,479.37,691
+1660,SKU-01660,Mock Product 1660,Sports,167.07,257
+1661,SKU-01661,Mock Product 1661,Groceries,4981.28,415
+1662,SKU-01662,Mock Product 1662,Groceries,3160.26,185
+1663,SKU-01663,Mock Product 1663,Home & Garden,363.7,457
+1664,SKU-01664,Mock Product 1664,Clothing,4192.17,857
+1665,SKU-01665,Mock Product 1665,Electronics,1975.67,74
+1666,SKU-01666,Mock Product 1666,Groceries,1107.86,948
+1667,SKU-01667,Mock Product 1667,Toys,2977.83,635
+1668,SKU-01668,Mock Product 1668,Toys,2385.75,342
+1669,SKU-01669,Mock Product 1669,Toys,3246.59,129
+1670,SKU-01670,Mock Product 1670,Home & Garden,3775.41,776
+1671,SKU-01671,Mock Product 1671,Groceries,2466.95,10
+1672,SKU-01672,Mock Product 1672,Home & Garden,459.75,378
+1673,SKU-01673,Mock Product 1673,Home & Garden,3935.36,251
+1674,SKU-01674,Mock Product 1674,Groceries,4014.42,465
+1675,SKU-01675,Mock Product 1675,Sports,4618.9,502
+1676,SKU-01676,Mock Product 1676,Books,342.22,878
+1677,SKU-01677,Mock Product 1677,Toys,828.77,817
+1678,SKU-01678,Mock Product 1678,Electronics,2297.44,940
+1679,SKU-01679,Mock Product 1679,Books,1438.31,814
+1680,SKU-01680,Mock Product 1680,Groceries,1224.93,879
+1681,SKU-01681,Mock Product 1681,Home & Garden,1516.38,145
+1682,SKU-01682,Mock Product 1682,Books,1650.57,419
+1683,SKU-01683,Mock Product 1683,Books,4193.9,249
+1684,SKU-01684,Mock Product 1684,Electronics,3589.34,442
+1685,SKU-01685,Mock Product 1685,Electronics,4800.62,330
+1686,SKU-01686,Mock Product 1686,Electronics,456.49,112
+1687,SKU-01687,Mock Product 1687,Clothing,2836.91,419
+1688,SKU-01688,Mock Product 1688,Home & Garden,953.67,138
+1689,SKU-01689,Mock Product 1689,Groceries,4055.41,389
+1690,SKU-01690,Mock Product 1690,Toys,4633.95,232
+1691,SKU-01691,Mock Product 1691,Sports,49.01,529
+1692,SKU-01692,Mock Product 1692,Toys,1836.1,666
+1693,SKU-01693,Mock Product 1693,Home & Garden,1705.8,823
+1694,SKU-01694,Mock Product 1694,Home & Garden,3306.81,394
+1695,SKU-01695,Mock Product 1695,Books,2387.95,843
+1696,SKU-01696,Mock Product 1696,Home & Garden,979.19,692
+1697,SKU-01697,Mock Product 1697,Groceries,2034.38,564
+1698,SKU-01698,Mock Product 1698,Groceries,2763.38,509
+1699,SKU-01699,Mock Product 1699,Electronics,4382.52,899
+1700,SKU-01700,Mock Product 1700,Groceries,54.4,389
+1701,SKU-01701,Mock Product 1701,Groceries,3196.88,866
+1702,SKU-01702,Mock Product 1702,Electronics,2855.01,793
+1703,SKU-01703,Mock Product 1703,Books,3435.52,411
+1704,SKU-01704,Mock Product 1704,Electronics,4825.0,868
+1705,SKU-01705,Mock Product 1705,Groceries,2543.61,50
+1706,SKU-01706,Mock Product 1706,Electronics,3582.05,69
+1707,SKU-01707,Mock Product 1707,Sports,341.01,621
+1708,SKU-01708,Mock Product 1708,Toys,319.73,431
+1709,SKU-01709,Mock Product 1709,Toys,1568.58,55
+1710,SKU-01710,Mock Product 1710,Clothing,1551.52,26
+1711,SKU-01711,Mock Product 1711,Groceries,3091.29,870
+1712,SKU-01712,Mock Product 1712,Electronics,3108.47,340
+1713,SKU-01713,Mock Product 1713,Groceries,3233.67,675
+1714,SKU-01714,Mock Product 1714,Electronics,972.34,822
+1715,SKU-01715,Mock Product 1715,Books,3099.54,250
+1716,SKU-01716,Mock Product 1716,Groceries,2035.93,463
+1717,SKU-01717,Mock Product 1717,Groceries,4935.75,262
+1718,SKU-01718,Mock Product 1718,Toys,4491.54,737
+1719,SKU-01719,Mock Product 1719,Sports,4207.69,916
+1720,SKU-01720,Mock Product 1720,Books,1338.58,379
+1721,SKU-01721,Mock Product 1721,Books,3360.92,337
+1722,SKU-01722,Mock Product 1722,Clothing,265.02,73
+1723,SKU-01723,Mock Product 1723,Toys,4323.91,433
+1724,SKU-01724,Mock Product 1724,Groceries,2941.61,743
+1725,SKU-01725,Mock Product 1725,Home & Garden,4530.18,926
+1726,SKU-01726,Mock Product 1726,Electronics,635.25,910
+1727,SKU-01727,Mock Product 1727,Clothing,944.49,236
+1728,SKU-01728,Mock Product 1728,Groceries,2701.66,107
+1729,SKU-01729,Mock Product 1729,Books,1365.82,283
+1730,SKU-01730,Mock Product 1730,Groceries,1575.07,526
+1731,SKU-01731,Mock Product 1731,Sports,1237.5,5
+1732,SKU-01732,Mock Product 1732,Clothing,2354.17,710
+1733,SKU-01733,Mock Product 1733,Groceries,3172.94,198
+1734,SKU-01734,Mock Product 1734,Home & Garden,2831.8,742
+1735,SKU-01735,Mock Product 1735,Toys,4147.46,245
+1736,SKU-01736,Mock Product 1736,Groceries,3550.81,810
+1737,SKU-01737,Mock Product 1737,Groceries,3354.21,101
+1738,SKU-01738,Mock Product 1738,Groceries,1876.76,981
+1739,SKU-01739,Mock Product 1739,Electronics,4090.09,422
+1740,SKU-01740,Mock Product 1740,Groceries,2678.81,644
+1741,SKU-01741,Mock Product 1741,Sports,1288.8,631
+1742,SKU-01742,Mock Product 1742,Home & Garden,1911.55,669
+1743,SKU-01743,Mock Product 1743,Home & Garden,982.62,843
+1744,SKU-01744,Mock Product 1744,Clothing,1621.05,525
+1745,SKU-01745,Mock Product 1745,Books,524.94,184
+1746,SKU-01746,Mock Product 1746,Toys,3623.92,337
+1747,SKU-01747,Mock Product 1747,Books,4211.6,382
+1748,SKU-01748,Mock Product 1748,Toys,681.78,961
+1749,SKU-01749,Mock Product 1749,Sports,433.44,24
+1750,SKU-01750,Mock Product 1750,Electronics,4149.38,697
+1751,SKU-01751,Mock Product 1751,Toys,371.51,774
+1752,SKU-01752,Mock Product 1752,Sports,3707.7,61
+1753,SKU-01753,Mock Product 1753,Home & Garden,499.62,77
+1754,SKU-01754,Mock Product 1754,Home & Garden,1040.98,218
+1755,SKU-01755,Mock Product 1755,Clothing,1751.4,423
+1756,SKU-01756,Mock Product 1756,Books,2179.25,247
+1757,SKU-01757,Mock Product 1757,Electronics,4010.7,246
+1758,SKU-01758,Mock Product 1758,Toys,1627.94,669
+1759,SKU-01759,Mock Product 1759,Home & Garden,290.64,732
+1760,SKU-01760,Mock Product 1760,Clothing,4916.81,690
+1761,SKU-01761,Mock Product 1761,Books,4165.49,173
+1762,SKU-01762,Mock Product 1762,Clothing,950.9,87
+1763,SKU-01763,Mock Product 1763,Toys,1928.96,110
+1764,SKU-01764,Mock Product 1764,Books,2524.19,833
+1765,SKU-01765,Mock Product 1765,Sports,573.5,54
+1766,SKU-01766,Mock Product 1766,Groceries,2112.18,884
+1767,SKU-01767,Mock Product 1767,Books,2213.8,528
+1768,SKU-01768,Mock Product 1768,Sports,3632.43,277
+1769,SKU-01769,Mock Product 1769,Groceries,4216.87,97
+1770,SKU-01770,Mock Product 1770,Toys,3631.56,56
+1771,SKU-01771,Mock Product 1771,Toys,3405.76,351
+1772,SKU-01772,Mock Product 1772,Toys,4036.96,578
+1773,SKU-01773,Mock Product 1773,Electronics,2075.06,173
+1774,SKU-01774,Mock Product 1774,Sports,827.58,495
+1775,SKU-01775,Mock Product 1775,Groceries,3513.61,887
+1776,SKU-01776,Mock Product 1776,Books,867.72,129
+1777,SKU-01777,Mock Product 1777,Home & Garden,2403.72,66
+1778,SKU-01778,Mock Product 1778,Books,3865.81,256
+1779,SKU-01779,Mock Product 1779,Sports,4333.82,306
+1780,SKU-01780,Mock Product 1780,Toys,1696.82,899
+1781,SKU-01781,Mock Product 1781,Sports,2340.2,577
+1782,SKU-01782,Mock Product 1782,Home & Garden,4678.02,649
+1783,SKU-01783,Mock Product 1783,Clothing,2181.97,24
+1784,SKU-01784,Mock Product 1784,Home & Garden,1361.63,520
+1785,SKU-01785,Mock Product 1785,Electronics,1442.72,283
+1786,SKU-01786,Mock Product 1786,Electronics,1807.07,807
+1787,SKU-01787,Mock Product 1787,Groceries,3811.84,684
+1788,SKU-01788,Mock Product 1788,Toys,4044.6,719
+1789,SKU-01789,Mock Product 1789,Toys,2544.6,909
+1790,SKU-01790,Mock Product 1790,Toys,4394.84,514
+1791,SKU-01791,Mock Product 1791,Sports,952.04,388
+1792,SKU-01792,Mock Product 1792,Electronics,4989.28,286
+1793,SKU-01793,Mock Product 1793,Books,2856.61,736
+1794,SKU-01794,Mock Product 1794,Sports,4943.5,537
+1795,SKU-01795,Mock Product 1795,Toys,1258.44,1000
+1796,SKU-01796,Mock Product 1796,Home & Garden,4111.65,364
+1797,SKU-01797,Mock Product 1797,Toys,1642.41,5
+1798,SKU-01798,Mock Product 1798,Books,3519.52,467
+1799,SKU-01799,Mock Product 1799,Electronics,3529.71,679
+1800,SKU-01800,Mock Product 1800,Groceries,1027.07,129
+1801,SKU-01801,Mock Product 1801,Home & Garden,4297.61,688
+1802,SKU-01802,Mock Product 1802,Sports,3728.81,140
+1803,SKU-01803,Mock Product 1803,Home & Garden,2615.85,442
+1804,SKU-01804,Mock Product 1804,Groceries,2848.61,919
+1805,SKU-01805,Mock Product 1805,Home & Garden,2631.43,352
+1806,SKU-01806,Mock Product 1806,Electronics,4932.05,550
+1807,SKU-01807,Mock Product 1807,Groceries,1458.05,410
+1808,SKU-01808,Mock Product 1808,Sports,3905.23,748
+1809,SKU-01809,Mock Product 1809,Groceries,1631.51,577
+1810,SKU-01810,Mock Product 1810,Books,1849.5,414
+1811,SKU-01811,Mock Product 1811,Groceries,355.4,902
+1812,SKU-01812,Mock Product 1812,Home & Garden,3787.64,822
+1813,SKU-01813,Mock Product 1813,Books,1347.23,882
+1814,SKU-01814,Mock Product 1814,Toys,2755.18,192
+1815,SKU-01815,Mock Product 1815,Clothing,3436.44,965
+1816,SKU-01816,Mock Product 1816,Books,1970.73,483
+1817,SKU-01817,Mock Product 1817,Home & Garden,3240.09,163
+1818,SKU-01818,Mock Product 1818,Electronics,791.28,559
+1819,SKU-01819,Mock Product 1819,Electronics,118.88,577
+1820,SKU-01820,Mock Product 1820,Clothing,1295.41,317
+1821,SKU-01821,Mock Product 1821,Electronics,4780.59,86
+1822,SKU-01822,Mock Product 1822,Clothing,4736.7,322
+1823,SKU-01823,Mock Product 1823,Toys,788.45,535
+1824,SKU-01824,Mock Product 1824,Toys,3280.48,695
+1825,SKU-01825,Mock Product 1825,Home & Garden,720.4,576
+1826,SKU-01826,Mock Product 1826,Home & Garden,64.33,398
+1827,SKU-01827,Mock Product 1827,Sports,1992.86,633
+1828,SKU-01828,Mock Product 1828,Toys,3265.59,644
+1829,SKU-01829,Mock Product 1829,Home & Garden,2889.46,597
+1830,SKU-01830,Mock Product 1830,Toys,1574.79,582
+1831,SKU-01831,Mock Product 1831,Toys,1191.03,220
+1832,SKU-01832,Mock Product 1832,Books,1596.17,75
+1833,SKU-01833,Mock Product 1833,Books,3938.2,700
+1834,SKU-01834,Mock Product 1834,Home & Garden,3953.74,869
+1835,SKU-01835,Mock Product 1835,Toys,358.62,904
+1836,SKU-01836,Mock Product 1836,Sports,675.74,211
+1837,SKU-01837,Mock Product 1837,Clothing,4360.25,304
+1838,SKU-01838,Mock Product 1838,Books,504.85,633
+1839,SKU-01839,Mock Product 1839,Groceries,3768.65,154
+1840,SKU-01840,Mock Product 1840,Toys,1146.8,250
+1841,SKU-01841,Mock Product 1841,Electronics,3295.24,521
+1842,SKU-01842,Mock Product 1842,Books,1223.39,461
+1843,SKU-01843,Mock Product 1843,Toys,4261.48,51
+1844,SKU-01844,Mock Product 1844,Groceries,545.23,291
+1845,SKU-01845,Mock Product 1845,Home & Garden,1385.2,164
+1846,SKU-01846,Mock Product 1846,Books,666.7,319
+1847,SKU-01847,Mock Product 1847,Electronics,3422.2,909
+1848,SKU-01848,Mock Product 1848,Books,727.07,129
+1849,SKU-01849,Mock Product 1849,Groceries,218.72,184
+1850,SKU-01850,Mock Product 1850,Books,3786.95,721
+1851,SKU-01851,Mock Product 1851,Groceries,1194.66,581
+1852,SKU-01852,Mock Product 1852,Sports,568.41,818
+1853,SKU-01853,Mock Product 1853,Clothing,4612.68,884
+1854,SKU-01854,Mock Product 1854,Clothing,4400.58,407
+1855,SKU-01855,Mock Product 1855,Clothing,3510.07,315
+1856,SKU-01856,Mock Product 1856,Books,1532.93,203
+1857,SKU-01857,Mock Product 1857,Groceries,4958.76,483
+1858,SKU-01858,Mock Product 1858,Electronics,4696.05,172
+1859,SKU-01859,Mock Product 1859,Sports,369.58,552
+1860,SKU-01860,Mock Product 1860,Groceries,3653.4,261
+1861,SKU-01861,Mock Product 1861,Home & Garden,501.6,871
+1862,SKU-01862,Mock Product 1862,Clothing,3083.03,101
+1863,SKU-01863,Mock Product 1863,Clothing,4385.05,887
+1864,SKU-01864,Mock Product 1864,Groceries,4244.91,647
+1865,SKU-01865,Mock Product 1865,Clothing,1486.0,872
+1866,SKU-01866,Mock Product 1866,Toys,3049.22,767
+1867,SKU-01867,Mock Product 1867,Toys,2289.03,62
+1868,SKU-01868,Mock Product 1868,Sports,2512.3,991
+1869,SKU-01869,Mock Product 1869,Toys,349.95,535
+1870,SKU-01870,Mock Product 1870,Groceries,2326.9,926
+1871,SKU-01871,Mock Product 1871,Groceries,2643.42,582
+1872,SKU-01872,Mock Product 1872,Electronics,3813.24,851
+1873,SKU-01873,Mock Product 1873,Sports,2032.74,105
+1874,SKU-01874,Mock Product 1874,Electronics,2038.67,687
+1875,SKU-01875,Mock Product 1875,Toys,889.15,355
+1876,SKU-01876,Mock Product 1876,Groceries,915.48,879
+1877,SKU-01877,Mock Product 1877,Sports,896.41,425
+1878,SKU-01878,Mock Product 1878,Electronics,4003.14,76
+1879,SKU-01879,Mock Product 1879,Electronics,938.89,507
+1880,SKU-01880,Mock Product 1880,Groceries,1959.52,503
+1881,SKU-01881,Mock Product 1881,Sports,3178.03,906
+1882,SKU-01882,Mock Product 1882,Home & Garden,1460.59,453
+1883,SKU-01883,Mock Product 1883,Sports,692.17,726
+1884,SKU-01884,Mock Product 1884,Electronics,347.97,538
+1885,SKU-01885,Mock Product 1885,Clothing,2638.54,789
+1886,SKU-01886,Mock Product 1886,Home & Garden,2439.86,161
+1887,SKU-01887,Mock Product 1887,Groceries,88.25,409
+1888,SKU-01888,Mock Product 1888,Sports,3602.81,214
+1889,SKU-01889,Mock Product 1889,Sports,4728.93,342
+1890,SKU-01890,Mock Product 1890,Groceries,1462.22,647
+1891,SKU-01891,Mock Product 1891,Toys,3352.26,773
+1892,SKU-01892,Mock Product 1892,Sports,3756.21,70
+1893,SKU-01893,Mock Product 1893,Groceries,3012.28,399
+1894,SKU-01894,Mock Product 1894,Electronics,3730.4,659
+1895,SKU-01895,Mock Product 1895,Toys,4104.65,845
+1896,SKU-01896,Mock Product 1896,Books,2418.5,395
+1897,SKU-01897,Mock Product 1897,Groceries,2534.34,169
+1898,SKU-01898,Mock Product 1898,Toys,1001.41,612
+1899,SKU-01899,Mock Product 1899,Groceries,4748.11,649
+1900,SKU-01900,Mock Product 1900,Books,141.22,499
+1901,SKU-01901,Mock Product 1901,Home & Garden,151.68,303
+1902,SKU-01902,Mock Product 1902,Clothing,171.38,547
+1903,SKU-01903,Mock Product 1903,Books,2934.47,635
+1904,SKU-01904,Mock Product 1904,Sports,23.78,574
+1905,SKU-01905,Mock Product 1905,Books,3031.02,85
+1906,SKU-01906,Mock Product 1906,Sports,2799.16,865
+1907,SKU-01907,Mock Product 1907,Home & Garden,431.07,616
+1908,SKU-01908,Mock Product 1908,Toys,2628.01,48
+1909,SKU-01909,Mock Product 1909,Toys,4859.09,189
+1910,SKU-01910,Mock Product 1910,Sports,4302.81,447
+1911,SKU-01911,Mock Product 1911,Toys,1523.55,693
+1912,SKU-01912,Mock Product 1912,Toys,4495.58,802
+1913,SKU-01913,Mock Product 1913,Home & Garden,2084.58,644
+1914,SKU-01914,Mock Product 1914,Groceries,1975.44,584
+1915,SKU-01915,Mock Product 1915,Toys,3122.45,755
+1916,SKU-01916,Mock Product 1916,Clothing,69.6,784
+1917,SKU-01917,Mock Product 1917,Books,3047.65,772
+1918,SKU-01918,Mock Product 1918,Home & Garden,4282.99,524
+1919,SKU-01919,Mock Product 1919,Clothing,2728.56,106
+1920,SKU-01920,Mock Product 1920,Books,2497.61,290
+1921,SKU-01921,Mock Product 1921,Groceries,78.32,987
+1922,SKU-01922,Mock Product 1922,Clothing,2750.44,722
+1923,SKU-01923,Mock Product 1923,Books,3707.45,673
+1924,SKU-01924,Mock Product 1924,Home & Garden,2698.77,573
+1925,SKU-01925,Mock Product 1925,Clothing,4695.17,78
+1926,SKU-01926,Mock Product 1926,Home & Garden,3156.81,211
+1927,SKU-01927,Mock Product 1927,Electronics,3376.17,155
+1928,SKU-01928,Mock Product 1928,Clothing,664.98,163
+1929,SKU-01929,Mock Product 1929,Sports,3451.12,305
+1930,SKU-01930,Mock Product 1930,Home & Garden,1645.53,657
+1931,SKU-01931,Mock Product 1931,Sports,2121.67,624
+1932,SKU-01932,Mock Product 1932,Groceries,108.69,674
+1933,SKU-01933,Mock Product 1933,Toys,2420.56,683
+1934,SKU-01934,Mock Product 1934,Electronics,685.85,570
+1935,SKU-01935,Mock Product 1935,Clothing,4879.73,5
+1936,SKU-01936,Mock Product 1936,Books,1780.81,853
+1937,SKU-01937,Mock Product 1937,Sports,2540.27,105
+1938,SKU-01938,Mock Product 1938,Books,2662.45,688
+1939,SKU-01939,Mock Product 1939,Toys,3353.5,832
+1940,SKU-01940,Mock Product 1940,Clothing,4375.64,809
+1941,SKU-01941,Mock Product 1941,Toys,4341.05,253
+1942,SKU-01942,Mock Product 1942,Clothing,119.81,250
+1943,SKU-01943,Mock Product 1943,Sports,1101.53,206
+1944,SKU-01944,Mock Product 1944,Books,4317.22,116
+1945,SKU-01945,Mock Product 1945,Electronics,4845.83,48
+1946,SKU-01946,Mock Product 1946,Toys,1059.73,942
+1947,SKU-01947,Mock Product 1947,Home & Garden,1787.64,423
+1948,SKU-01948,Mock Product 1948,Clothing,406.31,799
+1949,SKU-01949,Mock Product 1949,Sports,628.06,950
+1950,SKU-01950,Mock Product 1950,Toys,3525.4,281
+1951,SKU-01951,Mock Product 1951,Toys,1435.17,311
+1952,SKU-01952,Mock Product 1952,Home & Garden,2454.26,377
+1953,SKU-01953,Mock Product 1953,Books,4319.47,127
+1954,SKU-01954,Mock Product 1954,Toys,4409.84,743
+1955,SKU-01955,Mock Product 1955,Groceries,1704.13,579
+1956,SKU-01956,Mock Product 1956,Books,794.52,788
+1957,SKU-01957,Mock Product 1957,Books,680.58,289
+1958,SKU-01958,Mock Product 1958,Electronics,4221.55,638
+1959,SKU-01959,Mock Product 1959,Groceries,2299.44,636
+1960,SKU-01960,Mock Product 1960,Electronics,1687.21,533
+1961,SKU-01961,Mock Product 1961,Sports,2267.48,59
+1962,SKU-01962,Mock Product 1962,Clothing,1588.31,792
+1963,SKU-01963,Mock Product 1963,Groceries,742.96,1000
+1964,SKU-01964,Mock Product 1964,Books,3473.21,347
+1965,SKU-01965,Mock Product 1965,Books,4683.28,621
+1966,SKU-01966,Mock Product 1966,Home & Garden,4882.44,285
+1967,SKU-01967,Mock Product 1967,Home & Garden,3118.21,505
+1968,SKU-01968,Mock Product 1968,Groceries,167.07,526
+1969,SKU-01969,Mock Product 1969,Clothing,1715.61,531
+1970,SKU-01970,Mock Product 1970,Groceries,618.35,488
+1971,SKU-01971,Mock Product 1971,Home & Garden,3384.04,178
+1972,SKU-01972,Mock Product 1972,Sports,4088.97,302
+1973,SKU-01973,Mock Product 1973,Home & Garden,4641.02,826
+1974,SKU-01974,Mock Product 1974,Home & Garden,503.16,241
+1975,SKU-01975,Mock Product 1975,Sports,3658.73,888
+1976,SKU-01976,Mock Product 1976,Books,2781.03,583
+1977,SKU-01977,Mock Product 1977,Books,3501.61,44
+1978,SKU-01978,Mock Product 1978,Electronics,1245.27,850
+1979,SKU-01979,Mock Product 1979,Electronics,1181.46,324
+1980,SKU-01980,Mock Product 1980,Home & Garden,885.72,799
+1981,SKU-01981,Mock Product 1981,Groceries,3974.13,790
+1982,SKU-01982,Mock Product 1982,Electronics,3589.97,11
+1983,SKU-01983,Mock Product 1983,Electronics,4107.76,796
+1984,SKU-01984,Mock Product 1984,Sports,808.92,681
+1985,SKU-01985,Mock Product 1985,Books,4565.54,575
+1986,SKU-01986,Mock Product 1986,Home & Garden,3350.49,596
+1987,SKU-01987,Mock Product 1987,Books,1206.99,611
+1988,SKU-01988,Mock Product 1988,Books,785.21,445
+1989,SKU-01989,Mock Product 1989,Groceries,2713.54,296
+1990,SKU-01990,Mock Product 1990,Sports,4241.52,631
+1991,SKU-01991,Mock Product 1991,Groceries,3214.44,575
+1992,SKU-01992,Mock Product 1992,Home & Garden,531.48,632
+1993,SKU-01993,Mock Product 1993,Toys,4752.51,185
+1994,SKU-01994,Mock Product 1994,Groceries,3216.2,229
+1995,SKU-01995,Mock Product 1995,Clothing,2213.54,46
+1996,SKU-01996,Mock Product 1996,Books,1437.31,471
+1997,SKU-01997,Mock Product 1997,Groceries,4843.33,142
+1998,SKU-01998,Mock Product 1998,Electronics,3353.53,638
+1999,SKU-01999,Mock Product 1999,Clothing,2205.49,876
+2000,SKU-02000,Mock Product 2000,Electronics,849.72,916
