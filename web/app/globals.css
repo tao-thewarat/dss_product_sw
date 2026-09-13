@@ -346,3 +346,116 @@ code{background:var(--panel2);border:1px solid var(--line);border-radius:5px;pad
 .deptval{font-size:19px;font-weight:700;font-variant-numeric:tabular-nums;margin:5px 0}
 .deptformula{font-family:var(--font-mono),monospace;font-size:10.5px;color:var(--acc);
   background:var(--panel);border-radius:6px;padding:4px 6px;margin-bottom:6px;word-break:break-all}
+
+/* ============================================================
+   Course & Profile Pages
+   ============================================================ */
+.profile-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  padding: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.05);
+}
+@media (prefers-color-scheme: dark) {
+  .profile-card { box-shadow: 0 10px 40px rgba(0,0,0,0.2); }
+}
+.profile-card::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; height: 160px;
+  background: linear-gradient(135deg, rgba(91,140,255,0.2) 0%, rgba(139,92,246,0.2) 100%);
+  z-index: 0;
+}
+.profile-head {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+@media(max-width: 600px) {
+  .profile-head { flex-direction: column; text-align: center; }
+}
+.profile-img {
+  width: 140px; height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--panel);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+  background: var(--panel2);
+}
+.profile-title h1 { margin: 0 0 6px; font-size: 28px; font-weight: 700; color: var(--tx); }
+.profile-title p { margin: 0; color: var(--acc2); font-size: 15.5px; font-weight: 600; }
+.profile-title span { display: block; color: var(--dim); font-size: 13.5px; margin-top: 4px; font-weight: 400; }
+.profile-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; position: relative; z-index: 1; }
+@media(max-width: 800px) {
+  .profile-grid { grid-template-columns: 1fr; }
+}
+.profile-section {
+  background: var(--panel2);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 20px 24px;
+  transition: 0.2s;
+}
+.profile-section:hover { border-color: var(--acc); transform: translateY(-2px); }
+.profile-section h3 {
+  font-size: 15px;
+  margin: 0 0 14px;
+  color: var(--tx);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.profile-section p { margin: 0 0 14px; font-size: 14px; line-height: 1.6; color: var(--dim); }
+.skill-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.skill-tag {
+  background: rgba(91,140,255,0.12);
+  color: var(--acc);
+  border: 1px solid rgba(91,140,255,0.25);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12.5px;
+  font-weight: 600;
+  transition: 0.2s;
+}
+.skill-tag:hover { background: var(--acc); color: #fff; transform: translateY(-2px); }
+.skill-tag.alt {
+  background: rgba(139,92,246,0.12);
+  color: var(--acc2);
+  border-color: rgba(139,92,246,0.25);
+}
+.skill-tag.alt:hover { background: var(--acc2); color: #fff; }
+
+.course-hero {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  padding: 48px 32px;
+  text-align: center;
+  margin-bottom: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.course-hero::after {
+  content: "";
+  position: absolute;
+  top: -50%; left: -50%; width: 200%; height: 200%;
+  background: radial-gradient(circle at center, rgba(91,140,255,0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+.course-hero h1 { 
+  font-size: 34px; 
+  margin: 0 0 16px; 
+  background: linear-gradient(135deg, var(--tx) 0%, var(--dim) 100%); 
+  -webkit-background-clip: text; 
+  color: transparent; 
+}
+.course-hero p { font-size: 15.5px; color: var(--dim); margin: 0 auto; max-width: 650px; line-height: 1.6; }
+

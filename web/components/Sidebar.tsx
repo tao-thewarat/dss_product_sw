@@ -33,6 +33,24 @@ export default function Sidebar({ children }: { children: React.ReactNode }) {
             </span>
           </div>
         </Link>
+        <Link href="/course" onClick={close}>
+          <div className={`navitem${isActive("/course") ? " active" : ""}`}>
+            <span className="ico">📚</span>
+            <span>
+              <b>ข้อมูลรายวิชา</b>
+              <small>โครงสร้างเนื้อหา 16 สัปดาห์</small>
+            </span>
+          </div>
+        </Link>
+        <Link href="/profile" onClick={close}>
+          <div className={`navitem${isActive("/profile") ? " active" : ""}`}>
+            <span className="ico">👨‍💻</span>
+            <span>
+              <b>ผู้สร้างโปรเจกต์</b>
+              <small>ประวัติและผลงาน (Pangpond)</small>
+            </span>
+          </div>
+        </Link>
 
         <div className="navgroup">สื่อจำลองประกอบการเรียน</div>
         {SIMS.map((s) =>
